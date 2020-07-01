@@ -1,0 +1,958 @@
+AJ294340	1	1296	Bacteria;Proteobacteria;Alphaproteobacteria;Sphingomonadales;Sphingomonadaceae;Erythrobacter;	Enterovibrio calviensis	26245
+JN837486	1	1427	Bacteria;Proteobacteria;Alphaproteobacteria;Rhodobacterales;Rhodobacteraceae;Albimonas;	Albimonas pacifica	2561
+JX844463	1	1384	Bacteria;Bacteroidota;Bacteroidia;Flavobacteriales;Flavobacteriaceae;Olleya;	Olleya sp. Ar-56	44265
+JQ083317	1	1465	Bacteria;Proteobacteria;Gammaproteobacteria;Vibrionales;Vibrionaceae;Vibrio;	Vibrio cyclitrophicus	3783
+AB016054	1	1536	Bacteria;Proteobacteria;Gammaproteobacteria;Pseudomonadales;Moraxellaceae;Psychrobacter;	Psychrobacter pacificensis	3716
+AB016055	1	1531	Bacteria;Proteobacteria;Gammaproteobacteria;Pseudomonadales;Moraxellaceae;Psychrobacter;	Psychrobacter pacificensis	3716
+EU333882	1	1464	Bacteria;Proteobacteria;Gammaproteobacteria;Pseudomonadales;Pseudomonadaceae;Pseudomonas;	Pseudomonas sp. K22-28	3723
+U85841	1	1485	Bacteria;Proteobacteria;Gammaproteobacteria;Alteromonadales;Colwelliaceae;Colwellia;	Colwellia psychrerythraea	3379
+U85845	1	1503	Bacteria;Proteobacteria;Gammaproteobacteria;Alteromonadales;Colwelliaceae;Colwellia;	Colwellia demingiae	3379
+U85846	1	1486	Bacteria;Proteobacteria;Gammaproteobacteria;Alteromonadales;Colwelliaceae;Colwellia;	Colwellia psychrotropica	3379
+JQ661177	1	2718	Bacteria;Proteobacteria;Alphaproteobacteria;Sphingomonadales;Sphingomonadaceae;Erythrobacter;	Erythrobacter aquimaris	26245
+AY188938	1	1501	Bacteria;Proteobacteria;Gammaproteobacteria;Oceanospirillales;Halomonadaceae;Cobetia;	marine bacterium P_wp0224	3615
+FJ169986	1	1505	Bacteria;Proteobacteria;Gammaproteobacteria;Pseudomonadales;Pseudomonadaceae;Pseudomonas;	Pseudomonas sp. E505-11	3723
+AJ536466	1	1477	Bacteria;Cyanobacteria;Cyanobacteriia;Chloroplast;	Corethron pennatum	44561
+AJ440215	1	1556	Bacteria;Proteobacteria;Gammaproteobacteria;Alteromonadales;Idiomarinaceae;Idiomarina;	Idiomarina baltica	3387
+FJ200648	1	1503	Bacteria;Proteobacteria;Gammaproteobacteria;Alteromonadales;Pseudoalteromonadaceae;Pseudoalteromonas;	Pseudoalteromonas marina	3394
+EU434433	1	1417	Bacteria;Proteobacteria;Gammaproteobacteria;Pseudomonadales;Moraxellaceae;Psychrobacter;	Psychrobacter pulmonis	3716
+AB199888	1	1217	Bacteria;Cyanobacteria;Cyanobacteriia;Chloroplast;	Phalacroma mitra	44561
+AY258118	1	1416	Bacteria;Bacteroidota;Bacteroidia;Cytophagales;Cyclobacteriaceae;Marinoscillum;	bacterium DG873	44087
+EU581829	1	1412	Bacteria;Proteobacteria;Alphaproteobacteria;Sphingomonadales;Sphingomonadaceae;Stakelama;	Stakelama pacifica	2856
+FJ444989	1	1450	Bacteria;Proteobacteria;Gammaproteobacteria;Oceanospirillales;Halomonadaceae;Halomonas;	Halomonas sp. whb43	3616
+FJ457286	1	1379	Bacteria;Proteobacteria;Gammaproteobacteria;Oceanospirillales;Halomonadaceae;Cobetia;	Cobetia sp. S3179	3615
+FJ457317	1	1419	Bacteria;Proteobacteria;Gammaproteobacteria;Vibrionales;Vibrionaceae;Vibrio;	Vibrio sp. S539	3783
+AJ936947	1	1237	Bacteria;Proteobacteria;Gammaproteobacteria;Vibrionales;Vibrionaceae;Vibrio;	Vibrio sp. SOMBO17	3783
+FJ494890	1	1458	Bacteria;Proteobacteria;Gammaproteobacteria;Alteromonadales;Pseudoalteromonadaceae;Pseudoalteromonas;	Pseudoalteromonas sp. B10	3394
+FJ497684	1	1292	Bacteria;Proteobacteria;Alphaproteobacteria;Sphingomonadales;Sphingomonadaceae;Croceicoccus;	alpha proteobacterium VS-70	26242
+FJ744785	1	1295	Bacteria;Proteobacteria;Alphaproteobacteria;Rhodobacterales;Rhodobacteraceae;uncultured;	uncultured Rhodobacteraceae bacterium	2666
+FJ744908	1	1331	Bacteria;Proteobacteria;Alphaproteobacteria;SAR11 clade;Clade I;Clade Ia;	uncultured bacterium	26229
+FJ744956	1	1371	Bacteria;Bacteroidota;Bacteroidia;Flavobacteriales;Flavobacteriaceae;NS5 marine group;	uncultured Flavobacterium sp.	44262
+FJ745080	1	1326	Bacteria;Proteobacteria;Alphaproteobacteria;SAR11 clade;Clade I;uncultured;	uncultured bacterium	26231
+FJ745081	1	1358	Bacteria;Actinobacteriota;Acidimicrobiia;Actinomarinales;Actinomarinaceae;Candidatus Actinomarina;	uncultured bacterium	43292
+FJ745131	1	1372	Bacteria;Bacteroidota;Bacteroidia;Flavobacteriales;Flavobacteriaceae;NS5 marine group;	uncultured Flavobacterium sp.	44262
+FJ745176	1	1372	Bacteria;Bacteroidota;Bacteroidia;Flavobacteriales;Cryomorphaceae;uncultured;	uncultured Flavobacterium sp.	44182
+FJ745198	1	1365	Bacteria;Actinobacteriota;Acidimicrobiia;Actinomarinales;Actinomarinaceae;Candidatus Actinomarina;	uncultured bacterium	43292
+FJ745211	1	1387	Bacteria;Bdellovibrionota;Bdellovibrionia;Bacteriovoracales;Bacteriovoracaceae;	uncultured delta proteobacterium	44433
+FJ745259	1	1364	Bacteria;Actinobacteriota;Acidimicrobiia;Actinomarinales;Actinomarinaceae;Candidatus Actinomarina;	uncultured bacterium	43292
+EU740417	1	1470	Bacteria;Proteobacteria;Gammaproteobacteria;Salinisphaerales;Salinisphaeraceae;Salinisphaera;	Salinisphaera sp. EPR72	3730
+AB053126	1	1535	Bacteria;Proteobacteria;Gammaproteobacteria;Oceanospirillales;Alcanivoracaceae1;Alcanivorax;	Alcanivorax sp. I2	46574
+EU781522	1	1468	Bacteria;Proteobacteria;Gammaproteobacteria;Pseudomonadales;Moraxellaceae;Psychrobacter;	Psychrobacter sp. YDC6-D	3716
+AB055794	1	1498	Bacteria;Proteobacteria;Gammaproteobacteria;Alteromonadales;Pseudoalteromonadaceae;Pseudoalteromonas;	Pseudoalteromonas sp. Edeep-1	3394
+EF061412	1	1442	Bacteria;Proteobacteria;Gammaproteobacteria;Alteromonadales;Alteromonadaceae;Alteromonas;	Alteromonas sp. NJSS12	3339
+EF061414	1	1410	Bacteria;Proteobacteria;Gammaproteobacteria;Alteromonadales;Alteromonadaceae;Alteromonas;	Alteromonas sp. NJSS16	3339
+EF061418	1	1459	Bacteria;Proteobacteria;Gammaproteobacteria;Alteromonadales;Alteromonadaceae;Alteromonas;	Alteromonas sp. NJSS39	3339
+EF061422	1	1421	Bacteria;Proteobacteria;Gammaproteobacteria;Alteromonadales;Alteromonadaceae;Alteromonas;	Alteromonas sp. NJSX19	3339
+EF061430	1	1450	Bacteria;Proteobacteria;Gammaproteobacteria;Alteromonadales;Alteromonadaceae;Alteromonas;	Alteromonas sp. NJSX38	3339
+EF061436	1	1445	Bacteria;Proteobacteria;Gammaproteobacteria;Alteromonadales;Alteromonadaceae;Alteromonas;	Alteromonas sp. NJSX54	3339
+EF061450	1	1442	Bacteria;Proteobacteria;Gammaproteobacteria;Alteromonadales;Pseudoalteromonadaceae;Pseudoalteromonas;	Pseudoalteromonas sp. NJSN50	3394
+AB193901	1	1435	Bacteria;Proteobacteria;Alphaproteobacteria;Rickettsiales;S25-593;	uncultured bacterium	2796
+AB193916	1	1438	Bacteria;Proteobacteria;Alphaproteobacteria;SAR11 clade;Clade I;Clade Ia;	uncultured bacterium	26229
+AB193918	1	1524	Bacteria;Marinimicrobia (SAR406 clade);	uncultured bacterium	11409
+AB193958	1	1441	Archaea;Crenarchaeota;Nitrososphaeria;Nitrosopumilales;Nitrosopumilaceae;	uncultured archaeon	42940
+AB193960	1	1440	Archaea;Crenarchaeota;Nitrososphaeria;Nitrosopumilales;Nitrosopumilaceae;	uncultured archaeon	42940
+AB193965	1	1440	Archaea;Crenarchaeota;Nitrososphaeria;Nitrosopumilales;Nitrosopumilaceae;	uncultured archaeon	42940
+AB193967	1	1440	Archaea;Crenarchaeota;Nitrososphaeria;Nitrosopumilales;Nitrosopumilaceae;	uncultured archaeon	42940
+AB193978	1	1441	Archaea;Thermoplasmatota;Thermoplasmata;Marine Group II;	uncultured archaeon	43141
+AB193984	1	1441	Archaea;Crenarchaeota;Nitrososphaeria;Nitrosopumilales;Nitrosopumilaceae;	uncultured archaeon	42940
+AB193988	1	1441	Archaea;Crenarchaeota;Nitrososphaeria;Nitrosopumilales;Nitrosopumilaceae;	uncultured archaeon	42940
+AB193991	1	1443	Archaea;Crenarchaeota;Nitrososphaeria;Nitrosopumilales;Nitrosopumilaceae;	uncultured archaeon	42940
+AB193994	1	1472	Archaea;Crenarchaeota;Nitrososphaeria;Marine Benthic Group A;	uncultured archaeon	42934
+AB193999	1	1440	Archaea;Crenarchaeota;Nitrososphaeria;Nitrosopumilales;Nitrosopumilaceae;	uncultured archaeon	42940
+AB194003	1	1440	Archaea;Crenarchaeota;Nitrososphaeria;Nitrosopumilales;Nitrosopumilaceae;	uncultured archaeon	42940
+FJ613602	1	1487	Bacteria;Proteobacteria;Gammaproteobacteria;Pseudomonadales;Moraxellaceae;Psychrobacter;	Psychrobacter sp. 14	3716
+EU880515	1	1503	Bacteria;Bacteroidota;Bacteroidia;Flavobacteriales;Flavobacteriaceae;	Sufflavibacter maritimus	44183
+AM111033	1	1494	Bacteria;Proteobacteria;Gammaproteobacteria;Alteromonadales;Pseudoalteromonadaceae;Pseudoalteromonas;	Pseudoalteromonas sp. 7037	3394
+FR744842	1	1447	Bacteria;Proteobacteria;Gammaproteobacteria;Vibrionales;Vibrionaceae;Vibrio;	Vibrio sp. SW3-2	3783
+AM111094	1	1500	Bacteria;Proteobacteria;Gammaproteobacteria;Alteromonadales;Pseudoalteromonadaceae;Pseudoalteromonas;	Pseudoalteromonas sp. 8060	3394
+EU935239	1	1480	Bacteria;Proteobacteria;Gammaproteobacteria;Alteromonadales;Alteromonadaceae;Alteromonas;	bacterium L188S.181	3339
+AM158907	1	1450	Bacteria;Actinobacteriota;Actinobacteria;Micrococcales;Microbacteriaceae;Microbacterium;	Microbacterium indicum	43534
+AM180740	1	1602	Bacteria;Bacteroidota;Bacteroidia;Flavobacteriales;Flavobacteriaceae;Olleya;	Gelidibacter sp. UL5	44265
+AM180749	1	1518	Bacteria;Proteobacteria;Gammaproteobacteria;Oceanospirillales;Halomonadaceae;Cobetia;	Cobetia marina	3615
+AM183347	1	1476	Bacteria;Proteobacteria;Gammaproteobacteria;Alteromonadales;Alteromonadaceae;Rheinheimera;	Rheinheimera perlucida	26307
+EF151229	1	1453	Bacteria;Proteobacteria;Gammaproteobacteria;Alteromonadales;Pseudoalteromonadaceae;Pseudoalteromonas;	Pseudoalteromonas sp. SDDC27	3394
+AM269904	1	1416	Bacteria;Proteobacteria;Gammaproteobacteria;Pseudomonadales;Moraxellaceae;Psychrobacter;	Psychrobacter sp. ES-10	3716
+EF194102	1	1428	Bacteria;Proteobacteria;Gammaproteobacteria;Alteromonadales;Pseudoalteromonadaceae;Pseudoalteromonas;	Pseudomonas putida	3394
+EF199931	1	1473	Bacteria;Proteobacteria;Gammaproteobacteria;Alteromonadales;Pseudoalteromonadaceae;Pseudoalteromonas;	bacterium X12	3394
+GQ153640	1	1499	Bacteria;Proteobacteria;Gammaproteobacteria;Oceanospirillales;Alcanivoracaceae1;Alcanivorax;	Alcanivorax sp. ANT-2400 S4	46574
+AY345469	1	1433	Bacteria;Proteobacteria;Gammaproteobacteria;Alteromonadales;Alteromonadaceae;Alteromonas;	bacterium K5	3339
+AB294341	1	1415	Bacteria;Cyanobacteria;Cyanobacteriia;Chloroplast;	uncultured bacterium	44561
+GQ246711	1	1430	Bacteria;Actinobacteriota;Actinobacteria;Micrococcales;Microbacteriaceae;Microbacterium;	Microbacterium sp. M2T8B8	43534
+JQ839690	1	1433	Bacteria;Actinobacteriota;Actinobacteria;Micrococcales;Microbacteriaceae;Microbacterium;	Microbacterium testaceum	43534
+JQ860235	1	1434	Bacteria;Proteobacteria;Gammaproteobacteria;Alteromonadales;Alteromonadaceae;Alteromonas;	Alteromonas sp. QHL20	3339
+JQ904728	1	1440	Bacteria;Proteobacteria;Gammaproteobacteria;Alteromonadales;Pseudoalteromonadaceae;Pseudoalteromonas;	Pseudoalteromonas sp. DHC17	3394
+FM992724	1	1457	Bacteria;Proteobacteria;Gammaproteobacteria;Alteromonadales;Alteromonadaceae;Salinimonas;	Alteromonas sp. M71_D56	3369
+AB125366	1	1479	Bacteria;Proteobacteria;Gammaproteobacteria;Pseudomonadales;Pseudomonadaceae;Pseudomonas;	Pseudomonas pachastrellae	3723
+GU001892	1	1497	Bacteria;Proteobacteria;Gammaproteobacteria;Oceanospirillales;Halomonadaceae;Halomonas;	Halomonas aquamarina	3616
+AB461943	1	1310	Archaea;Crenarchaeota;Nitrososphaeria;Nitrosopumilales;Nitrosopumilaceae;	uncultured archaeon	42940
+GU086202	1	1390	Bacteria;Proteobacteria;Alphaproteobacteria;Rhizobiales;Rhizobiaceae;Martelella;	Martelella sp. AD-3	26111
+FN563089	1	1468	Bacteria;Cyanobacteria;Cyanobacteriia;Chloroplast;	Prasinoderma coloniale	44561
+EF584014	1	1439	Bacteria;Proteobacteria;Gammaproteobacteria;Alteromonadales;Pseudoalteromonadaceae;Pseudoalteromonas;	Pseudoalteromonas sp. AS1	3394
+EF584015	1	1461	Bacteria;Proteobacteria;Gammaproteobacteria;Alteromonadales;Pseudoalteromonadaceae;Pseudoalteromonas;	Pseudoalteromonas sp. AS2	3394
+EF584090	1	1428	Bacteria;Proteobacteria;Gammaproteobacteria;Alteromonadales;Pseudoalteromonadaceae;Pseudoalteromonas;	Pseudoalteromonas sp. VHOS1	3394
+EF584092	1	1434	Bacteria;Proteobacteria;Gammaproteobacteria;Alteromonadales;Pseudoalteromonadaceae;Pseudoalteromonas;	Pseudoalteromonas sp. VPBS2	3394
+EF584102	1	1469	Bacteria;Proteobacteria;Gammaproteobacteria;Alteromonadales;Pseudoalteromonadaceae;Pseudoalteromonas;	Alteromonadales bacterium WA11	3394
+AM778450	1	1434	Bacteria;Actinobacteriota;Actinobacteria;Micrococcales;Microbacteriaceae;Microbacterium;	Microbacterium aquimaris	43534
+AM778456	1	1462	Bacteria;Proteobacteria;Gammaproteobacteria;Vibrionales;Vibrionaceae;Vibrio;	Vibrio sp. Y310	3783
+AM778463	1	1516	Bacteria;Proteobacteria;Gammaproteobacteria;Vibrionales;Vibrionaceae;Vibrio;	Vibrio sp. Y524	3783
+GU291860	1	1385	Bacteria;Bacteroidota;Bacteroidia;Flavobacteriales;Flavobacteriaceae;Gramella;	Gramella jeungdoensis	44231
+FJ792262	1	1364	Bacteria;Bacteroidota;Bacteroidia;Sphingobacteriales;ST-12K33;	uncultured bacterium	44347
+GQ921360	1	1497	Bacteria;Proteobacteria;Gammaproteobacteria;Pseudomonadales;Pseudomonadaceae;Pseudomonas;	uncultured bacterium	3723
+GQ921469	1	1495	Bacteria;Proteobacteria;Gammaproteobacteria;Pseudomonadales;Pseudomonadaceae;Pseudomonas;	uncultured bacterium	3723
+HQ696463	1	1494	Bacteria;Firmicutes;Clostridia;Peptostreptococcales-Tissierellales;Caminicellaceae;Paramaledivibacter;	Clostridium sp. DY192	45596
+GU361122	1	1487	Bacteria;Proteobacteria;Gammaproteobacteria;Oceanospirillales;Halomonadaceae;Halomonas;	Halomonas sp. Bej52	3616
+U70724	1	1482	Bacteria;Cyanobacteria;Cyanobacteriia;Chloroplast;	unidentified cryptomonad	44561
+GQ231541	1	1478	Bacteria;Cyanobacteria;Cyanobacteriia;Chloroplast;	Aureococcus anophagefferens	44561
+AM944022	1	1520	Bacteria;Proteobacteria;Gammaproteobacteria;Alteromonadales;Pseudoalteromonadaceae;Pseudoalteromonas;	Pseudoalteromonas sp. R-25603	3394
+AM945668	1	1328	Bacteria;Proteobacteria;Gammaproteobacteria;Oceanospirillales;Halomonadaceae;Halomonas;	Halomonas sp. MAN K22	3616
+GQ926871	1	1619	Bacteria;Proteobacteria;Gammaproteobacteria;Oceanospirillales;Saccharospirillaceae;Oleispira;	uncultured Oceanospirillales bacterium	26791
+EU136629	1	1439	Bacteria;Proteobacteria;Gammaproteobacteria;Alteromonadales;Pseudoalteromonadaceae;Pseudoalteromonas;	Pseudoalteromonas sp. Z6	3394
+AY576713	1	1487	Bacteria;Proteobacteria;Gammaproteobacteria;Alteromonadales;Pseudoalteromonadaceae;Pseudoalteromonas;	Pseudoalteromonas sp. 18III/A01/058	3394
+AM990657	1	1462	Bacteria;Proteobacteria;Gammaproteobacteria;Alteromonadales;Alteromonadaceae;Alteromonas;	Alteromonas sp. MOLA 380	3339
+FJ825835	1	1428	Bacteria;Proteobacteria;Alphaproteobacteria;Rhodobacterales;Rhodobacteraceae;Cognatiyoonia;	uncultured marine bacterium	46162
+X90641	1	1495	Bacteria;Cyanobacteria;Cyanobacteriia;Chloroplast;	Mantoniella squamata	44561
+FJ825880	1	1478	Bacteria;Bacteroidota;Bacteroidia;Flavobacteriales;Cryomorphaceae;uncultured;	uncultured marine bacterium	44182
+FJ825894	1	1440	Bacteria;Proteobacteria;Gammaproteobacteria;Alteromonadales;Pseudoalteromonadaceae;Pseudoalteromonas;	uncultured marine bacterium	3394
+FJ825947	1	1482	Bacteria;Bacteroidota;Bacteroidia;Flavobacteriales;Cryomorphaceae;uncultured;	uncultured marine bacterium	44182
+FJ826087	1	1421	Bacteria;Proteobacteria;Alphaproteobacteria;Rhodobacterales;Rhodobacteraceae;Amylibacter;	uncultured marine bacterium	11445
+FJ826102	1	1440	Bacteria;Proteobacteria;Gammaproteobacteria;Alteromonadales;Pseudoalteromonadaceae;Pseudoalteromonas;	uncultured marine bacterium	3394
+FJ826110	1	1441	Bacteria;Proteobacteria;Alphaproteobacteria;Rhodobacterales;Rhodobacteraceae;Amylibacter;	uncultured marine bacterium	11445
+FJ826119	1	1472	Bacteria;Bacteroidota;Bacteroidia;Flavobacteriales;Flavobacteriaceae;NS4 marine group;	uncultured marine bacterium	44261
+FJ826169	1	1468	Bacteria;Proteobacteria;Gammaproteobacteria;Cellvibrionales;Porticoccaceae;SAR92 clade;	uncultured marine bacterium	11541
+FJ826247	1	1220	Bacteria;Cyanobacteria;Cyanobacteriia;Chloroplast;	uncultured phototrophic eukaryote	44561
+FJ826248	1	1455	Bacteria;Proteobacteria;Alphaproteobacteria;Defluviicoccales;uncultured;	uncultured marine bacterium	46135
+FJ826251	1	1219	Bacteria;Cyanobacteria;Cyanobacteriia;Chloroplast;	uncultured marine bacterium	44561
+FJ826265	1	1219	Bacteria;Cyanobacteria;Cyanobacteriia;Chloroplast;	uncultured marine bacterium	44561
+FJ826317	1	1453	Bacteria;Proteobacteria;Alphaproteobacteria;Rhodospirillales;Magnetospiraceae;Magnetospira;	uncultured marine bacterium	26179
+HM569768	1	1484	Bacteria;Proteobacteria;Gammaproteobacteria;Oceanospirillales;Saccharospirillaceae;Thalassolituus;	Thalassolituus marinus	26794
+FJ826491	1	1449	Bacteria;Cyanobacteria;Cyanobacteriia;Chloroplast;	uncultured phototrophic eukaryote	44561
+JF268251	1	1423	Bacteria;Proteobacteria;Gammaproteobacteria;Pseudomonadales;Moraxellaceae;Psychrobacter;	Psychrobacter sp. SDMRI-W2	3716
+HM593102	1	1447	Bacteria;Proteobacteria;Gammaproteobacteria;Pseudomonadales;Moraxellaceae;Psychrobacter;	Psychrobacter sp. Z1	3716
+HM800924	1	1495	Bacteria;Proteobacteria;Alphaproteobacteria;Rhizobiales;Rhizobiaceae;Martelella;	Martelella endophytica	26111
+AB457051	1	1482	Bacteria;Proteobacteria;Gammaproteobacteria;Alteromonadales;Pseudoalteromonadaceae;Pseudoalteromonas;	Pseudoalteromonas sp. SB-E1	3394
+JX436383	1	1402	Bacteria;Proteobacteria;Gammaproteobacteria;Alteromonadales;Pseudoalteromonadaceae;Pseudoalteromonas;	Pseudoalteromonas sp. Hex323	3394
+JX436391	1	1275	Bacteria;Proteobacteria;Gammaproteobacteria;Alteromonadales;Pseudoalteromonadaceae;Pseudoalteromonas;	Pseudoalteromonas sp. Man18.2	3394
+AY628694	1	1536	Bacteria;Proteobacteria;Gammaproteobacteria;Oceanospirillales;Halomonadaceae;Cobetia;	Cobetia marina	3615
+AB735546	1	1462	Bacteria;Proteobacteria;Gammaproteobacteria;Salinisphaerales;Salinisphaeraceae;Salinisphaera;	Salinisphaera japonica YTM-1	3730
+AB610896	1	1479	Bacteria;Cyanobacteria;Cyanobacteriia;Synechococcales;Cyanobiaceae;Synechococcus CC9902;	Synechococcus sp. NIBB 1071	44831
+EF508371	19577	21067	Bacteria;Cyanobacteria;Cyanobacteriia;Chloroplast;	Rhodomonas salina	44561
+GU584161	1	1499	Bacteria;Proteobacteria;Gammaproteobacteria;Oceanospirillales;Halomonadaceae;Cobetia;	Halomonas sp. 204Z-2	3615
+GU940747	1	1343	Bacteria;Proteobacteria;Alphaproteobacteria;SAR11 clade;Clade I;Clade Ib;	uncultured bacterium	26230
+GU940773	1	1334	Bacteria;Proteobacteria;Alphaproteobacteria;Rickettsiales;Mitochondria;	uncultured bacterium	2805
+GU940873	1	1401	Bacteria;Bacteroidota;Bacteroidia;Flavobacteriales;NS9 marine group;	uncultured bacterium	44308
+GU940897	1	1343	Bacteria;Proteobacteria;Alphaproteobacteria;SAR11 clade;Clade I;uncultured;	uncultured bacterium	26231
+GU940969	1	1355	Bacteria;Cyanobacteria;Cyanobacteriia;Chloroplast;	uncultured bacterium	44561
+GU940987	1	1428	Bacteria;Marinimicrobia (SAR406 clade);	uncultured bacterium	11409
+GU940989	1	1358	Bacteria;Bacteroidota;Bacteroidia;Flavobacteriales;Flavobacteriaceae;NS5 marine group;	uncultured bacterium	44262
+GU941026	1	1315	Bacteria;Proteobacteria;Alphaproteobacteria;Rickettsiales;Mitochondria;	uncultured bacterium	2805
+GU941067	1	1343	Bacteria;Proteobacteria;Alphaproteobacteria;SAR11 clade;Clade II;	uncultured bacterium	26232
+GU941076	1	1291	Bacteria;Cyanobacteria;Cyanobacteriia;Chloroplast;	uncultured bacterium	44561
+KC253366	1	1449	Bacteria;Cyanobacteria;Cyanobacteriia;Synechococcales;Cyanobiaceae;Cyanobium PCC-6307;	uncultured bacterium	44829
+AY833570	1	1506	Bacteria;Actinobacteriota;Actinobacteria;Micrococcales;Microbacteriaceae;Microbacterium;	Microbacterium sp. MC3B-10	43534
+AY028199	1	1448	Bacteria;Proteobacteria;Gammaproteobacteria;Alteromonadales;Pseudoalteromonadaceae;Pseudoalteromonas;	marine bacterium Tw-4	3394
+AY162103	1	1337	Bacteria;Proteobacteria;Alphaproteobacteria;Sphingomonadales;Sphingomonadaceae;Sphingobium;	alpha proteobacterium GMD21C04	2850
+AY162114	1	1412	Bacteria;Proteobacteria;Gammaproteobacteria;Vibrionales;Vibrionaceae;Vibrio;	gamma proteobacterium GMD13D11	3783
+AY167286	1	1489	Bacteria;Proteobacteria;Gammaproteobacteria;Pseudomonadales;Moraxellaceae;Psychrobacter;	Psychrobacter sp. ANT9153	3716
+AY167340	1	1444	Bacteria;Proteobacteria;Gammaproteobacteria;Alteromonadales;Colwelliaceae;Colwellia;	Psychrobacter sp. ARK10133	3379
+HQ163158	1	1317	Bacteria;Proteobacteria;Alphaproteobacteria;SAR11 clade;Clade I;uncultured;	uncultured Alphaproteobacteria bacterium	26231
+HQ163255	1	1374	Bacteria;Proteobacteria;Gammaproteobacteria;Thiomicrospirales;Thioglobaceae;SUP05 cluster;	uncultured gamma proteobacterium	26850
+HQ163260	1	1400	Bacteria;Verrucomicrobiota;Verrucomicrobiae;Arctic97B-4 marine group;	uncultured Verrucomicrobia bacterium	46772
+HQ163320	1	1376	Bacteria;Bacteroidota;Bacteroidia;Flavobacteriales;Flavobacteriaceae;NS5 marine group;	uncultured Bacteroidetes bacterium	44262
+HQ163443	1	1344	Bacteria;Proteobacteria;Alphaproteobacteria;SAR11 clade;Clade I;Clade Ia;	uncultured Alphaproteobacteria bacterium	26229
+HQ163761	1	1367	Bacteria;Marinimicrobia (SAR406 clade);	uncultured bacterium	11409
+HQ166794	1	1343	Bacteria;Actinobacteriota;Actinobacteria;Micrococcales;Microbacteriaceae;uncultured;	uncultured bacterium	43553
+HQ166808	1	1359	Bacteria;Proteobacteria;Gammaproteobacteria;Pseudomonadales;Pseudomonadaceae;Pseudomonas;	uncultured bacterium	3723
+AF045560	1	1449	Bacteria;Proteobacteria;Gammaproteobacteria;Alteromonadales;Pseudoalteromonadaceae;Pseudoalteromonas;	Pseudoalteromonas antarctica	3394
+JQ218646	1	1493	Bacteria;Proteobacteria;Gammaproteobacteria;Oceanospirillales;Halomonadaceae;Cobetia;	uncultured proteobacterium	3615
+JQ220558	1	915	Archaea;Crenarchaeota;Nitrososphaeria;Nitrosopumilales;Nitrosopumilaceae;Candidatus Nitrosopumilus;	uncultured marine archaeon	42942
+AF098371	1	1444	Bacteria;Cyanobacteria;Cyanobacteriia;Synechococcales;Cyanobiaceae;Cyanobium PCC-6307;	Synechococcus-like str. PENDANT	44829
+JQ220648	1	914	Archaea;Crenarchaeota;Nitrososphaeria;Nitrosopumilales;Nitrosopumilaceae;	uncultured marine archaeon	42940
+JQ220653	1	915	Archaea;Crenarchaeota;Nitrososphaeria;Nitrosopumilales;Nitrosopumilaceae;Candidatus Nitrosopumilus;	uncultured marine archaeon	42942
+JQ220924	1	916	Archaea;Crenarchaeota;Nitrososphaeria;Nitrosopumilales;Nitrosopumilaceae;	uncultured marine archaeon	42940
+JQ221004	1	915	Archaea;Crenarchaeota;Nitrososphaeria;Nitrosopumilales;Nitrosopumilaceae;	uncultured marine archaeon	42940
+JQ221011	1	915	Archaea;Thermoplasmatota;Thermoplasmata;Marine Group II;	uncultured marine archaeon	43141
+JQ221038	1	914	Archaea;Crenarchaeota;Nitrososphaeria;Marine Benthic Group A;	uncultured marine archaeon	42934
+JQ221123	1	914	Archaea;Crenarchaeota;Nitrososphaeria;Nitrosopumilales;Nitrosopumilaceae;	uncultured marine archaeon	42940
+JQ221251	1	914	Archaea;Crenarchaeota;Nitrososphaeria;Nitrosopumilales;Nitrosopumilaceae;	uncultured marine archaeon	42940
+JQ221386	1	913	Archaea;Crenarchaeota;Nitrososphaeria;Nitrosopumilales;Nitrosopumilaceae;	uncultured marine archaeon	42940
+AF115271	1	1404	Bacteria;Cyanobacteria;Cyanobacteriia;Synechococcales;Cyanobiaceae;Prochlorococcus MIT9313;	Prochlorococcus marinus str. MIT 9215	44830
+JQ221717	1	914	Archaea;Crenarchaeota;Nitrososphaeria;Nitrosopumilales;Nitrosopumilaceae;	uncultured marine archaeon	42940
+JQ221732	1	914	Archaea;Crenarchaeota;Nitrososphaeria;Nitrosopumilales;Nitrosopumilaceae;Candidatus Nitrosopumilus;	uncultured marine archaeon	42942
+JQ221803	1	914	Archaea;Crenarchaeota;Nitrososphaeria;Nitrosopumilales;Nitrosopumilaceae;	uncultured marine archaeon	42940
+JQ222041	1	915	Archaea;Thermoplasmatota;Thermoplasmata;Marine Group III;	uncultured marine archaeon	43142
+JQ222055	1	909	Archaea;Crenarchaeota;Nitrososphaeria;Nitrosopumilales;Nitrosopumilaceae;	uncultured marine archaeon	42940
+JQ222279	1	913	Archaea;Thermoplasmatota;Thermoplasmata;Marine Group III;	uncultured marine archaeon	43142
+JQ222294	1	913	Archaea;Crenarchaeota;Nitrososphaeria;Nitrosopumilales;Nitrosopumilaceae;	uncultured marine archaeon	42940
+JQ222467	1	914	Archaea;Crenarchaeota;Nitrososphaeria;Nitrosopumilales;Nitrosopumilaceae;	uncultured marine archaeon	42940
+JQ222667	1	1344	Archaea;Thermoplasmatota;Thermoplasmata;Marine Group II;	uncultured marine archaeon	43141
+JQ222710	1	1336	Archaea;Thermoplasmatota;Thermoplasmata;Marine Group II;	uncultured marine archaeon	43141
+JQ222785	1	1347	Archaea;Thermoplasmatota;Thermoplasmata;Marine Group II;	uncultured marine archaeon	43141
+JQ222974	1	1365	Archaea;Thermoplasmatota;Thermoplasmata;Marine Group II;	uncultured marine archaeon	43141
+JQ223014	1	1367	Archaea;Thermoplasmatota;Thermoplasmata;Marine Group II;	uncultured marine archaeon	43141
+FJ980777	1	1485	Bacteria;Bacteroidota;Bacteroidia;Cytophagales;Cyclobacteriaceae;Marinoscillum;	uncultured bacterium	44087
+JQ224467	1	1339	Archaea;Crenarchaeota;Nitrososphaeria;Nitrosopumilales;Nitrosopumilaceae;Candidatus Nitrosopumilus;	uncultured marine archaeon	42942
+JQ224996	1	1347	Archaea;Crenarchaeota;Nitrososphaeria;Nitrosopumilales;Nitrosopumilaceae;Candidatus Nitrosopelagicus;	uncultured marine archaeon	42941
+JQ225306	1	1339	Archaea;Thermoplasmatota;Thermoplasmata;Marine Group II;	uncultured marine archaeon	43141
+JQ225307	1	1344	Archaea;Thermoplasmatota;Thermoplasmata;Marine Group II;	uncultured marine archaeon	43141
+JQ225391	1	1340	Archaea;Crenarchaeota;Nitrososphaeria;Nitrosopumilales;Nitrosopumilaceae;Candidatus Nitrosopumilus;	uncultured marine archaeon	42942
+JQ226349	1	1312	Archaea;Thermoplasmatota;Thermoplasmata;Marine Group II;	uncultured marine archaeon	43141
+JQ226401	1	1306	Archaea;Thermoplasmatota;Thermoplasmata;Marine Group II;	uncultured marine archaeon	43141
+JQ226616	1	1299	Archaea;Thermoplasmatota;Thermoplasmata;Marine Group II;	uncultured marine archaeon	43141
+JQ226757	1	1346	Archaea;Thermoplasmatota;Thermoplasmata;Marine Group II;	uncultured marine archaeon	43141
+GQ984355	1	1500	Bacteria;Proteobacteria;Gammaproteobacteria;Pseudomonadales;Moraxellaceae;Psychrobacter;	uncultured gamma proteobacterium	3716
+JQ227077	1	1367	Archaea;Thermoplasmatota;Thermoplasmata;Marine Group II;	uncultured marine archaeon	43141
+JQ227409	1	1285	Archaea;Crenarchaeota;Nitrososphaeria;Nitrosopumilales;Nitrosopumilaceae;Candidatus Nitrosopumilus;	uncultured marine archaeon	42942
+AF288157	1	1529	Bacteria;Proteobacteria;Gammaproteobacteria;Alteromonadales;Marinobacteraceae;Marinobacter;	Marinobacter lutaoensis	26314
+HQ225273	1	1502	Bacteria;Proteobacteria;Gammaproteobacteria;Alteromonadales;Alteromonadaceae;uncultured;	uncultured bacterium	3375
+HQ242112	1	1485	Bacteria;Proteobacteria;Gammaproteobacteria;Cellvibrionales;Porticoccaceae;SAR92 clade;	uncultured gamma proteobacterium	11541
+HQ242201	1	1427	Bacteria;Proteobacteria;Alphaproteobacteria;Rhodobacterales;Rhodobacteraceae;Ascidiaceihabitans;	uncultured Rhodobacteraceae bacterium	11446
+HQ242261	1	1500	Bacteria;Proteobacteria;Gammaproteobacteria;Oceanospirillales;Pseudohongiellaceae;Pseudohongiella;	uncultured gamma proteobacterium	26782
+HQ242373	1	1521	Bacteria;Marinimicrobia (SAR406 clade);	uncultured marine bacterium	11409
+HQ242379	1	1434	Bacteria;Proteobacteria;Alphaproteobacteria;SAR11 clade;Clade II;	uncultured Pelagibacterales bacterium	26232
+HQ242389	1	1489	Bacteria;Bacteroidota;Bacteroidia;Flavobacteriales;Flavobacteriaceae;NS4 marine group;	uncultured Bacteroidetes/Chlorobi group bacterium	44261
+HQ242617	1	1454	Bacteria;Cyanobacteria;Cyanobacteriia;Chloroplast;	uncultured cyanobacterium	44561
+HQ242620	1	1275	Bacteria;Proteobacteria;Alphaproteobacteria;SAR11 clade;Clade II;	uncultured Pelagibacterales bacterium	26232
+HQ242621	1	1446	Bacteria;Cyanobacteria;Cyanobacteriia;Chloroplast;	uncultured cyanobacterium	44561
+HQ242623	1	1439	Bacteria;Cyanobacteria;Cyanobacteriia;Chloroplast;	uncultured cyanobacterium	44561
+FJ999606	1	1357	Bacteria;Cyanobacteria;Cyanobacteriia;Synechococcales;Cyanobiaceae;Cyanobium PCC-6307;	uncultured cyanobacterium	44829
+FJ999613	1	1344	Bacteria;Cyanobacteria;Cyanobacteriia;Synechococcales;Cyanobiaceae;Synechococcus CC9902;	uncultured bacterium	44831
+HQ267240	1	915	Archaea;Crenarchaeota;Nitrososphaeria;Nitrosopumilales;Nitrosopumilaceae;	uncultured archaeon	42940
+AF418172	1	1547	Bacteria;Desulfobacterota;Desulfovibrionia;Desulfovibrionales;Desulfovibrionaceae;Desulfovibrio;	Pseudodesulfovibrio profundus	45006
+AF468351	1	1424	Bacteria;Proteobacteria;Alphaproteobacteria;Rhodobacterales;Rhodobacteraceae;Paracoccus;	Arctic sea ice associated bacterium ARK10006	2607
+AF505725	1	1493	Bacteria;Proteobacteria;Gammaproteobacteria;Pseudomonadales;Moraxellaceae;Psychrobacter;	bacterium UMB4B	3716
+CP001650	759240	760762	Bacteria;Bacteroidota;Bacteroidia;Flavobacteriales;Flavobacteriaceae;Zunongwangia;	Zunongwangia profunda SM-A87	44303
+U40238	31654	33126	Archaea;Crenarchaeota;Nitrososphaeria;Nitrosopumilales;Nitrosopumilaceae;Candidatus Nitrosopelagicus;	uncultured crenarchaeote 4B7	42941
+U65908	1	1509	Bacteria;SAR324 clade(Marine group B);	uncultured bacterium	46586
+U71109	1	1350	Archaea;Crenarchaeota;Nitrososphaeria;Nitrosopumilales;Nitrosopumilaceae;Candidatus Nitrosopelagicus;	unidentified archaeon PM7	42941
+U75254	1	1466	Bacteria;Proteobacteria;Alphaproteobacteria;SAR11 clade;Clade II;	uncultured Alphaproteobacteria bacterium	26232
+CP001842	3507	4983	Bacteria;Cyanobacteria;Cyanobacteriia;Cyanobacteriales;Microcystaceae;Atelocyanobacterium (UCYN-A);	Candidatus Atelocyanobacterium thalassa isolate ALOHA	44619
+X52169	1	1473	Bacteria;Cyanobacteria;Cyanobacteriia;Synechococcales;Cyanobiaceae;Prochlorococcus MIT9313;	uncultured bacterium	44830
+JQ337874	1	1506	Bacteria;Proteobacteria;Gammaproteobacteria;Alteromonadales;Marinobacteraceae;Marinobacter;	uncultured bacterium	26314
+JQ347414	1	1492	Bacteria;Proteobacteria;Gammaproteobacteria;Ectothiorhodospirales;Ectothiorhodospiraceae;uncultured;	uncultured bacterium	26637
+EF571926	1	1454	Bacteria;Proteobacteria;Alphaproteobacteria;SAR11 clade;Clade IV;	uncultured bacterium	26234
+EF571939	1	1526	Bacteria;Marinimicrobia (SAR406 clade);	uncultured bacterium	11409
+EF571965	1	1491	Bacteria;Proteobacteria;Alphaproteobacteria;Puniceispirillales;SAR116 clade;	uncultured bacterium	26032
+EF571982	1	1487	Bacteria;Actinobacteriota;Acidimicrobiia;Actinomarinales;Actinomarinaceae;Candidatus Actinomarina;	uncultured bacterium	43292
+EF572066	1	1488	Bacteria;Bacteroidota;Bacteroidia;Flavobacteriales;NS9 marine group;	uncultured bacterium	44308
+EF572097	1	1449	Bacteria;Proteobacteria;Alphaproteobacteria;SAR11 clade;Clade I;Clade Ib;	uncultured bacterium	26230
+EF572101	1	1517	Bacteria;Marinimicrobia (SAR406 clade);	uncultured bacterium	11409
+EF572127	1	1520	Bacteria;Proteobacteria;Gammaproteobacteria;SAR86 clade;	uncultured bacterium	26808
+EF572151	1	1467	Bacteria;Proteobacteria;Alphaproteobacteria;Rickettsiales;S25-593;	uncultured bacterium	2796
+EF572198	1	1478	Bacteria;Bacteroidota;Bacteroidia;Flavobacteriales;NS9 marine group;	uncultured bacterium	44308
+EF572280	1	1488	Bacteria;Bacteroidota;Bacteroidia;Flavobacteriales;Cryomorphaceae;uncultured;	uncultured bacterium	44182
+EF572288	1	1498	Bacteria;Proteobacteria;Gammaproteobacteria;KI89A clade;	uncultured bacterium	3550
+EF572378	1	1516	Bacteria;Bdellovibrionota;Bdellovibrionia;Bacteriovoracales;Bacteriovoracaceae;uncultured;	uncultured bacterium	44437
+EF572471	1	1459	Bacteria;Proteobacteria;Alphaproteobacteria;Rhodospirillales;AEGEAN-169 marine group;	uncultured bacterium	26177
+EF572504	1	1492	Bacteria;Proteobacteria;Gammaproteobacteria;Ectothiorhodospirales;Ectothiorhodospiraceae;uncultured;	uncultured bacterium	26637
+EF572586	1	1452	Bacteria;Proteobacteria;Alphaproteobacteria;Parvibaculales;OCS116 clade;	uncultured bacterium	26017
+EF572587	1	1496	Bacteria;Proteobacteria;Gammaproteobacteria;SAR86 clade;	uncultured bacterium	26808
+EF572745	1	1469	Bacteria;Proteobacteria;Alphaproteobacteria;Rickettsiales;S25-593;	uncultured bacterium	2796
+EF572756	1	1449	Bacteria;Proteobacteria;Alphaproteobacteria;SAR11 clade;Clade I;Clade Ib;	uncultured bacterium	26230
+EF572785	1	1464	Bacteria;Proteobacteria;Alphaproteobacteria;Thalassobaculales;Nisaeaceae;OM75 clade;	uncultured bacterium	26255
+EF572866	1	1525	Bacteria;Marinimicrobia (SAR406 clade);	uncultured bacterium	11409
+EF573011	1	1496	Bacteria;Bacteroidota;Bacteroidia;Cytophagales;Cyclobacteriaceae;Marinoscillum;	uncultured bacterium	44087
+EF573025	1	1502	Bacteria;Bacteroidota;Bacteroidia;Flavobacteriales;Flavobacteriaceae;NS4 marine group;	uncultured bacterium	44261
+EF573122	1	1485	Bacteria;Bacteroidota;Bacteroidia;Cytophagales;Cyclobacteriaceae;Marinoscillum;	uncultured bacterium	44087
+EF573230	1	1478	Bacteria;Dadabacteria;Dadabacteriia;Dadabacteriales;	uncultured bacterium	25539
+EF573369	1	1458	Bacteria;Proteobacteria;Alphaproteobacteria;Parvibaculales;OCS116 clade;	uncultured bacterium	26017
+EF573375	1	1449	Bacteria;Proteobacteria;Alphaproteobacteria;SAR11 clade;Clade II;	uncultured bacterium	26232
+EF573463	1	1480	Bacteria;Actinobacteriota;Acidimicrobiia;Microtrichales;Microtrichaceae;Sva0996 marine group;	uncultured bacterium	43305
+EF573689	1	1488	Bacteria;Proteobacteria;Gammaproteobacteria;SAR86 clade;	uncultured bacterium	26808
+EF573752	1	1474	Bacteria;SAR324 clade(Marine group B);	uncultured bacterium	46586
+EF573781	1	1448	Bacteria;Proteobacteria;Alphaproteobacteria;Puniceispirillales;SAR116 clade;	uncultured bacterium	26032
+EF573851	1	1447	Bacteria;Cyanobacteria;Cyanobacteriia;Chloroplast;	uncultured bacterium	44561
+EF574040	1	1487	Bacteria;Proteobacteria;Gammaproteobacteria;SAR86 clade;	uncultured bacterium	26808
+EF574119	1	1500	Bacteria;Marinimicrobia (SAR406 clade);	uncultured bacterium	11409
+EF574195	1	1480	Bacteria;Proteobacteria;Gammaproteobacteria;Alteromonadales;Alteromonadaceae;Alteromonas;	uncultured bacterium	3339
+EF574241	1	1490	Bacteria;Proteobacteria;Gammaproteobacteria;SAR86 clade;	uncultured bacterium	26808
+EF574264	1	1492	Bacteria;Proteobacteria;Gammaproteobacteria;Oceanospirillales;Saccharospirillaceae;Oceanobacter;	uncultured bacterium	26789
+EF574288	1	1436	Bacteria;Cyanobacteria;Cyanobacteriia;Chloroplast;	uncultured bacterium	44561
+EF574345	1	1539	Bacteria;Verrucomicrobiota;Kiritimatiellae;Kiritimatiellales;Kiritimatiellaceae;R76-B128;	uncultured bacterium	46738
+EF574353	1	1482	Bacteria;Bdellovibrionota;Bdellovibrionia;Bdellovibrionales;Bdellovibrionaceae;OM27 clade;	uncultured bacterium	44441
+EF574411	1	1527	Bacteria;Marinimicrobia (SAR406 clade);	uncultured bacterium	11409
+EF574604	1	1446	Bacteria;Proteobacteria;Gammaproteobacteria;Alteromonadales;Alteromonadaceae;Alteromonas;	uncultured bacterium	3339
+EF574610	1	1506	Bacteria;Verrucomicrobiota;Verrucomicrobiae;Opitutales;Puniceicoccaceae;MB11C04 marine group;	uncultured bacterium	46806
+EF574626	1	1492	Bacteria;Bacteroidota;Bacteroidia;Flavobacteriales;Flavobacteriaceae;NS4 marine group;	uncultured bacterium	44261
+EF574651	1	1468	Bacteria;Proteobacteria;Alphaproteobacteria;Rickettsiales;S25-593;	uncultured bacterium	2796
+EF574657	1	1483	Bacteria;Bacteroidota;Bacteroidia;Flavobacteriales;Flavobacteriaceae;NS4 marine group;	uncultured bacterium	44261
+EF574674	1	1443	Bacteria;Cyanobacteria;Cyanobacteriia;Chloroplast;	uncultured bacterium	44561
+EF574718	1	1497	Bacteria;Proteobacteria;Gammaproteobacteria;Alteromonadales;Alteromonadaceae;Alteromonas;	uncultured bacterium	3339
+EF574734	1	1477	Bacteria;Proteobacteria;Alphaproteobacteria;uncultured;	uncultured bacterium	26269
+EF574788	1	1492	Bacteria;Bacteroidota;Bacteroidia;Flavobacteriales;Flavobacteriaceae;NS4 marine group;	uncultured bacterium	44261
+EF574837	1	1497	Bacteria;Bacteroidota;Bacteroidia;Flavobacteriales;NS7 marine group;	uncultured bacterium	44307
+EF574859	1	1503	Bacteria;SAR324 clade(Marine group B);	uncultured bacterium	46586
+EF574964	1	1522	Bacteria;Myxococcota;Myxococcia;Myxococcales;Myxococcaceae;P3OB-42;	uncultured bacterium	45925
+EF574980	1	1467	Bacteria;Proteobacteria;Alphaproteobacteria;Defluviicoccales;uncultured;	uncultured bacterium	46135
+EF575015	1	1520	Bacteria;Verrucomicrobiota;Verrucomicrobiae;Opitutales;Puniceicoccaceae;Lentimonas;	uncultured bacterium	46805
+EF575192	1	1449	Bacteria;Cyanobacteria;Cyanobacteriia;Chloroplast;	uncultured bacterium	44561
+EF575193	1	1476	Bacteria;SAR324 clade(Marine group B);	uncultured bacterium	46586
+EF575316	1	1499	Bacteria;Proteobacteria;Gammaproteobacteria;Alteromonadales;Pseudoalteromonadaceae;Pseudoalteromonas;	uncultured bacterium	3394
+AF001653	1	1553	Bacteria;Marinimicrobia (SAR406 clade);	uncultured eubacterium OCS146	11409
+AF001654	1	1479	Bacteria;Cyanobacteria;Cyanobacteriia;Chloroplast;	environmental clone OCS20	44561
+AF114496	1	1495	Bacteria;Proteobacteria;Gammaproteobacteria;Alteromonadales;Alteromonadaceae;Alteromonas;	uncultured gamma proteobacterium	3339
+AF121987	1	935	Archaea;Crenarchaeota;Nitrososphaeria;Nitrosopumilales;Nitrosopumilaceae;	uncultured marine archaeon DCM74159	42940
+AF121999	1	911	Archaea;Crenarchaeota;Nitrososphaeria;Nitrosopumilales;Nitrosopumilaceae;Candidatus Nitrosopelagicus;	uncultured marine archaeon DCM871	42941
+EF597695	1	942	Archaea;Crenarchaeota;Nitrososphaeria;Nitrosopumilales;Nitrosopumilaceae;	uncultured crenarchaeote	42940
+EF597697	1	952	Archaea;Crenarchaeota;Nitrososphaeria;Nitrosopumilales;Nitrosopumilaceae;Candidatus Nitrosopelagicus;	uncultured crenarchaeote	42941
+EF597698	1	1403	Archaea;Thermoplasmatota;Thermoplasmata;Marine Group II;	uncultured euryarchaeote	43141
+GU061308	1	1461	Bacteria;Proteobacteria;Gammaproteobacteria;Alteromonadales;Colwelliaceae;Colwellia;	uncultured gamma proteobacterium	3379
+GU061386	1	1471	Bacteria;Proteobacteria;Gammaproteobacteria;SAR86 clade;	uncultured bacterium	26808
+GU061415	1	1485	Bacteria;Actinobacteriota;Acidimicrobiia;Actinomarinales;Actinomarinaceae;Candidatus Actinomarina;	uncultured bacterium	43292
+GU061453	1	1514	Bacteria;Proteobacteria;Gammaproteobacteria;SAR86 clade;	uncultured bacterium	26808
+GU061476	1	1445	Bacteria;Cyanobacteria;Cyanobacteriia;Synechococcales;Cyanobiaceae;Cyanobium PCC-6307;	uncultured bacterium	44829
+GU061506	1	1478	Bacteria;Actinobacteriota;Acidimicrobiia;Microtrichales;Microtrichaceae;Sva0996 marine group;	uncultured bacterium	43305
+GU061750	1	1434	Bacteria;Cyanobacteria;Cyanobacteriia;Synechococcales;Cyanobiaceae;Cyanobium PCC-6307;	uncultured bacterium	44829
+GU061789	1	1436	Bacteria;Proteobacteria;Alphaproteobacteria;SAR11 clade;Clade I;Clade Ib;	uncultured bacterium	26230
+GU061825	1	1499	Bacteria;Proteobacteria;Gammaproteobacteria;SAR86 clade;	uncultured bacterium	26808
+GU061833	1	1462	Bacteria;Cyanobacteria;Cyanobacteriia;Chloroplast;	uncultured bacterium	44561
+GU061848	1	1488	Bacteria;Actinobacteriota;Acidimicrobiia;Actinomarinales;Actinomarinaceae;Candidatus Actinomarina;	uncultured bacterium	43292
+GU061861	1	1423	Bacteria;Proteobacteria;Alphaproteobacteria;Rhodobacterales;Rhodobacteraceae;uncultured;	uncultured bacterium	2666
+GU061948	1	1441	Bacteria;Proteobacteria;Alphaproteobacteria;SAR11 clade;Clade I;Clade Ia;	uncultured bacterium	26229
+GU062019	1	1504	Bacteria;Verrucomicrobiota;Verrucomicrobiae;Verrucomicrobiales;Rubritaleaceae;Roseibacillus;	uncultured bacterium	46838
+GU062146	1	1447	Bacteria;Cyanobacteria;Cyanobacteriia;Synechococcales;Cyanobiaceae;Synechococcus CC9902;	uncultured bacterium	44831
+AF354621	1	1477	Bacteria;Bacteroidota;Bacteroidia;Flavobacteriales;Flavobacteriaceae;Polaribacter;	uncultured Polaribacter sp.	44268
+AF355042	1	1473	Bacteria;Nitrospinota;Nitrospinia;Nitrospinales;Nitrospinaceae;LS-NOB;	uncultured delta proteobacterium	45981
+AF382127	1	1491	Bacteria;Proteobacteria;Gammaproteobacteria;Oceanospirillales;Saccharospirillaceae;Oleibacter;	uncultured bacterium	26790
+AF382130	1	1484	Bacteria;Bacteroidota;Bacteroidia;Flavobacteriales;Flavobacteriaceae;NS4 marine group;	uncultured bacterium	44261
+AF406530	1	1447	Bacteria;Proteobacteria;Gammaproteobacteria;SAR86 clade;	uncultured gamma proteobacterium	26808
+EF645948	1	1485	Bacteria;Bacteroidota;Bacteroidia;Flavobacteriales;Cryomorphaceae;uncultured;	uncultured bacterium	44182
+EF646119	1	1485	Bacteria;Dadabacteria;Dadabacteriia;Dadabacteriales;	uncultured bacterium	25539
+EF646132	1	1480	Bacteria;Bacteroidota;Bacteroidia;Flavobacteriales;NS9 marine group;	uncultured bacterium	44308
+AEUE01000008	155488	156954	Bacteria;Proteobacteria;Alphaproteobacteria;Sphingomonadales;Sphingomonadaceae;Erythrobacter;	Citromicrobium sp. JLT1363	26245
+AJ133625	1	1270	Archaea;Thermoplasmatota;Thermoplasmata;Marine Group II;	uncultured archaeon 'KTK 31A'	43141
+AJ240914	1	1494	Bacteria;Proteobacteria;Gammaproteobacteria;Alteromonadales;Alteromonadaceae;Alteromonas;	uncultured gamma proteobacterium CHAB-IV-19	3339
+FN433328	1	1525	Bacteria;Bacteroidota;Bacteroidia;Flavobacteriales;Flavobacteriaceae;NS5 marine group;	uncultured Flavobacteriia bacterium	44262
+FN433348	1	1495	Bacteria;Bacteroidota;Bacteroidia;Flavobacteriales;Flavobacteriaceae;NS5 marine group;	uncultured Flavobacteriia bacterium	44262
+FN433409	1	1491	Bacteria;Bacteroidota;Bacteroidia;Flavobacteriales;NS9 marine group;	uncultured Flavobacteriia bacterium	44308
+FN433412	1	1496	Bacteria;Bacteroidota;Bacteroidia;Flavobacteriales;Flavobacteriaceae;NS4 marine group;	uncultured Flavobacteriia bacterium	44261
+FN433426	1	1497	Bacteria;Bacteroidota;Bacteroidia;Flavobacteriales;Flavobacteriaceae;NS5 marine group;	uncultured Flavobacteriia bacterium	44262
+AJ551107	1	1684	Bacteria;Proteobacteria;Gammaproteobacteria;Pseudomonadales;Moraxellaceae;Psychrobacter;	Psychrobacter sp. wp30	3716
+GU108528	1	1398	Bacteria;Proteobacteria;Gammaproteobacteria;Alteromonadales;Alteromonadaceae;Alteromonas;	uncultured Alteromonadaceae bacterium	3339
+GU108551	1	1401	Bacteria;Proteobacteria;Gammaproteobacteria;Alteromonadales;Pseudoalteromonadaceae;Pseudoalteromonas;	uncultured Pseudoalteromonadaceae bacterium	3394
+GU108553	1	1390	Bacteria;Proteobacteria;Gammaproteobacteria;Alteromonadales;Pseudoalteromonadaceae;Pseudoalteromonas;	uncultured gamma proteobacterium	3394
+GU108554	1	1400	Bacteria;Proteobacteria;Gammaproteobacteria;Alteromonadales;Pseudoalteromonadaceae;Pseudoalteromonas;	uncultured gamma proteobacterium	3394
+AJ810559	1	1432	Bacteria;Campilobacterota;Campylobacteria;Campylobacterales;Arcobacteraceae;uncultured;	uncultured Epsilonproteobacteria bacterium	44488
+GU118928	1	1458	Bacteria;Proteobacteria;Gammaproteobacteria;Alteromonadales;Alteromonadaceae;Agaribacter;	uncultured bacterium	11502
+GU119438	1	1393	Bacteria;Cyanobacteria;Cyanobacteriia;Synechococcales;Cyanobiaceae;Synechococcus CC9902;	uncultured bacterium	44831
+HQ397070	1	1496	Bacteria;Proteobacteria;Gammaproteobacteria;Alteromonadales;Alteromonadaceae;Aestuariibacter;	uncultured Aestuariibacter sp.	3335
+GU145420	1	1491	Bacteria;Bacteroidota;Bacteroidia;Flavobacteriales;Flavobacteriaceae;NS5 marine group;	uncultured bacterium	44262
+GU145455	1	1523	Bacteria;Marinimicrobia (SAR406 clade);	uncultured bacterium	11409
+GU145517	1	1480	Bacteria;SAR324 clade(Marine group B);	uncultured bacterium	46586
+EU005678	1	1414	Bacteria;Cyanobacteria;Cyanobacteriia;Chloroplast;	uncultured phototrophic eukaryote	44561
+EU010164	1	1471	Bacteria;Proteobacteria;Gammaproteobacteria;Ectothiorhodospirales;Ectothiorhodospiraceae;uncultured;	uncultured marine bacterium	26637
+EU010224	1	1421	Bacteria;Proteobacteria;Gammaproteobacteria;Thiotrichales;Thiotrichaceae;uncultured;	uncultured marine bacterium	3770
+AM747314	1	1270	Bacteria;Proteobacteria;Alphaproteobacteria;SAR11 clade;Clade II;	uncultured marine bacterium	26232
+AM747332	1	1244	Bacteria;Proteobacteria;Alphaproteobacteria;Rhodobacterales;Rhodobacteraceae;uncultured;	uncultured marine bacterium	2666
+EU050780	1	1423	Bacteria;Proteobacteria;Gammaproteobacteria;Alteromonadales;Pseudoalteromonadaceae;Pseudoalteromonas;	uncultured gamma proteobacterium	3394
+AM747382	1	1283	Bacteria;Cyanobacteria;Cyanobacteriia;Chloroplast;	uncultured marine eukaryote	44561
+AM941171	1	1407	Bacteria;Proteobacteria;Gammaproteobacteria;Alteromonadales;Alteromonadaceae;Salinimonas;	uncultured Alteromonas sp.	3369
+AM990725	1	1370	Bacteria;Proteobacteria;Gammaproteobacteria;Vibrionales;Vibrionaceae;Vibrio;	Vibrio sp. MOLA 500	3783
+AY033322	1	1446	Bacteria;Proteobacteria;Alphaproteobacteria;SAR11 clade;Clade II;	uncultured alpha proteobacterium MB21A02	26232
+GU230411	1	1482	Bacteria;Bacteroidota;Bacteroidia;Flavobacteriales;NS9 marine group;	uncultured Flavobacterium sp.	44308
+GU230416	1	1482	Bacteria;Bacteroidota;Bacteroidia;Flavobacteriales;Flavobacteriaceae;Formosa;	uncultured Flavobacterium sp.	44222
+GU234305	1	1334	Archaea;Crenarchaeota;Nitrososphaeria;Nitrosopumilales;Nitrosopumilaceae;	uncultured marine archaeon	42940
+GU234599	1	1319	Archaea;Crenarchaeota;Nitrososphaeria;Nitrosopumilales;Nitrosopumilaceae;Candidatus Nitrosopumilus;	uncultured marine archaeon	42942
+GU234821	1	1376	Bacteria;Proteobacteria;Gammaproteobacteria;Thiomicrospirales;Thioglobaceae;SUP05 cluster;	uncultured marine bacterium	26850
+GU234848	1	1327	Bacteria;Proteobacteria;Alphaproteobacteria;SAR11 clade;Clade I;Clade Ia;	uncultured marine bacterium	26229
+GU234872	1	1374	Bacteria;Proteobacteria;Gammaproteobacteria;Thiomicrospirales;Thioglobaceae;SUP05 cluster;	uncultured marine bacterium	26850
+GU235070	1	1379	Bacteria;Proteobacteria;Gammaproteobacteria;Thiomicrospirales;Thioglobaceae;SUP05 cluster;	uncultured marine bacterium	26850
+GU235112	1	1356	Bacteria;SAR324 clade(Marine group B);	uncultured marine bacterium	46586
+GU235229	1	1374	Bacteria;Proteobacteria;Gammaproteobacteria;Cellvibrionales;Porticoccaceae;SAR92 clade;	uncultured marine bacterium	11541
+GU235453	1	1363	Bacteria;Proteobacteria;Gammaproteobacteria;Cellvibrionales;Spongiibacteraceae;BD1-7 clade;	uncultured marine bacterium	11543
+GU235633	1	1364	Bacteria;Bacteroidota;Bacteroidia;Flavobacteriales;Flavobacteriaceae;Polaribacter;	uncultured marine bacterium	44268
+GU235804	1	1382	Bacteria;Proteobacteria;Gammaproteobacteria;Oceanospirillales;Nitrincolaceae;uncultured;	uncultured marine bacterium	26778
+GU235809	1	1374	Bacteria;Proteobacteria;Gammaproteobacteria;Oceanospirillales;Nitrincolaceae;uncultured;	uncultured marine bacterium	26778
+HM057630	1	1500	Bacteria;Bacteroidota;Bacteroidia;Flavobacteriales;Flavobacteriaceae;NS5 marine group;	uncultured Bacteroidetes bacterium	44262
+HM057641	1	1455	Bacteria;Cyanobacteria;Cyanobacteriia;Synechococcales;Cyanobiaceae;Synechococcus CC9902;	uncultured cyanobacterium	44831
+HM057668	1	1437	Bacteria;Proteobacteria;Alphaproteobacteria;Rhodobacterales;Rhodobacteraceae;Amylibacter;	uncultured Alphaproteobacteria bacterium	11445
+HM057673	1	1435	Bacteria;Proteobacteria;Alphaproteobacteria;Rhodobacterales;Rhodobacteraceae;Lentibacter;	uncultured Alphaproteobacteria bacterium	2583
+HM057677	1	1487	Bacteria;Campilobacterota;Campylobacteria;Campylobacterales;Arcobacteraceae;uncultured;	uncultured Epsilonproteobacteria bacterium	44488
+HM057681	1	1486	Bacteria;Campilobacterota;Campylobacteria;Campylobacterales;Arcobacteraceae;uncultured;	uncultured bacterium	44488
+HM057716	1	1496	Bacteria;SAR324 clade(Marine group B);	uncultured delta proteobacterium	46586
+HM057721	1	1451	Bacteria;Cyanobacteria;Cyanobacteriia;Chloroplast;	uncultured bacterium	44561
+HM057728	1	1480	Bacteria;Proteobacteria;Alphaproteobacteria;Rhodospirillales;Thalassospiraceae;Thalassospira;	uncultured Alphaproteobacteria bacterium	26197
+HM057798	1	1502	Bacteria;Campilobacterota;Campylobacteria;Campylobacterales;Arcobacteraceae;uncultured;	uncultured bacterium	44488
+HM057801	1	1519	Bacteria;Bacteroidota;Rhodothermia;Balneolales;Balneolaceae;Balneola;	uncultured Bacteroidetes bacterium	44408
+JF747664	1	1516	Bacteria;Proteobacteria;Gammaproteobacteria;UBA10353 marine group;	uncultured bacterium	26861
+AY344429	1	1480	Bacteria;Proteobacteria;Gammaproteobacteria;Alteromonadales;Alteromonadaceae;Alteromonas;	uncultured bacterium	3339
+AY375080	1	1497	Bacteria;Proteobacteria;Gammaproteobacteria;Alteromonadales;Colwelliaceae;Colwellia;	uncultured bacterium	3379
+FN994947	1	1357	Bacteria;Bacteroidota;Bacteroidia;Flavobacteriales;Crocinitomicaceae;Brumimicrobium;	uncultured halophilic eubacterium	44168
+FO117592	36865	38380	Bacteria;Bacteroidota;Bacteroidia;Flavobacteriales;Flavobacteriaceae;uncultured;	uncultured Flavobacteriia bacterium	44304
+AY534096	1	1494	Bacteria;Chloroflexi;Dehalococcoidia;SAR202 clade;	uncultured Chloroflexi bacterium	25185
+AY534097	1	1494	Bacteria;Chloroflexi;Dehalococcoidia;SAR202 clade;	uncultured Chloroflexi bacterium	25185
+AY534099	1	1476	Bacteria;Chloroflexi;Dehalococcoidia;SAR202 clade;	uncultured Chloroflexi bacterium	25185
+AY534100	1	1466	Bacteria;Chloroflexi;Dehalococcoidia;SAR202 clade;	uncultured Chloroflexi bacterium	25185
+EU188189	1	1494	Bacteria;Proteobacteria;Gammaproteobacteria;Alteromonadales;Alteromonadaceae;Alteromonas;	uncultured marine microorganism	3339
+AY627382	1	1532	Bacteria;Proteobacteria;Gammaproteobacteria;OM182 clade;	uncultured gamma proteobacterium	26750
+AY627439	1	1193	Archaea;Crenarchaeota;Nitrososphaeria;Nitrosopumilales;Nitrosopumilaceae;	uncultured archaeon	42940
+AHCG01000072	3865	5305	Archaea;Thermoplasmatota;Thermoplasmata;Marine Group II;	uncultured marine group II euryarchaeote	43141
+AY664138	1	1204	Bacteria;Cyanobacteria;Cyanobacteriia;Chloroplast;	uncultured phototrophic eukaryote	44561
+AY664275	1	1237	Bacteria;Proteobacteria;Gammaproteobacteria;Alteromonadales;Pseudoalteromonadaceae;Pseudoalteromonas;	uncultured Pseudoalteromonas sp.	3394
+EU236386	1	1368	Bacteria;Bacteroidota;Bacteroidia;Flavobacteriales;Cryomorphaceae;uncultured;	uncultured bacterium	44182
+EU237342	1	1352	Bacteria;Actinobacteriota;Acidimicrobiia;Actinomarinales;Actinomarinaceae;Candidatus Actinomarina;	uncultured bacterium	43292
+EU237459	1	1302	Bacteria;Proteobacteria;Alphaproteobacteria;Rhodospirillales;AEGEAN-169 marine group;	uncultured bacterium	26177
+FQ032803	11245	12758	Bacteria;Bacteroidota;Bacteroidia;Flavobacteriales;Cryomorphaceae;uncultured;	uncultured Flavobacteriia bacterium	44182
+FQ032804	31701	33214	Bacteria;Bacteroidota;Bacteroidia;Flavobacteriales;Flavobacteriaceae;Leeuwenhoekiella;	uncultured Leeuwenhoekiella sp.	44244
+FQ032814	11137	12652	Bacteria;Bacteroidota;Bacteroidia;Chitinophagales;Saprospiraceae;uncultured;	uncultured Sphingobacteriia bacterium	44055
+FQ032815	3262	4778	Bacteria;Bacteroidota;Bacteroidia;Flavobacteriales;Cryomorphaceae;NS10 marine group;	uncultured Flavobacteriia bacterium	44178
+FQ032816	6456	7971	Bacteria;Bacteroidota;Bacteroidia;Sphingobacteriales;NS11-12 marine group;	uncultured Sphingobacteriia bacterium	44343
+FQ032819	21712	23225	Bacteria;Bacteroidota;Bacteroidia;Flavobacteriales;Flavobacteriaceae;NS4 marine group;	uncultured Flavobacteriia bacterium	44261
+FQ032821	27163	28678	Bacteria;Bacteroidota;Bacteroidia;Flavobacteriales;Flavobacteriaceae;Formosa;	uncultured Flavobacteriia bacterium	44222
+FQ032823	12062	13572	Bacteria;Bacteroidota;Bacteroidia;Flavobacteriales;NS9 marine group;	uncultured Flavobacteriia bacterium	44308
+FQ032825	6410	7925	Bacteria;Bacteroidota;Bacteroidia;Flavobacteriales;NS9 marine group;	uncultured Flavobacteriia bacterium	44308
+FQ032826	22493	24014	Bacteria;Bacteroidota;Bacteroidia;Flavobacteriales;Flavobacteriaceae;NS5 marine group;	uncultured Flavobacteriia bacterium	44262
+FQ032828	26868	28381	Bacteria;Bacteroidota;Bacteroidia;Flavobacteriales;Flavobacteriaceae;NS2b marine group;	uncultured Flavobacteriia bacterium	44259
+FQ032830	13921	15433	Bacteria;Bacteroidota;Bacteroidia;Cytophagales;Cyclobacteriaceae;Marinoscillum;	uncultured Cytophagia bacterium	44087
+AY700630	1	1436	Bacteria;Proteobacteria;Alphaproteobacteria;Puniceispirillales;SAR116 clade;	uncultured bacterium	26032
+AY702176	1	1422	Bacteria;Cyanobacteria;Cyanobacteriia;Chloroplast;	uncultured phototrophic eukaryote	44561
+AY704387	1	1461	Bacteria;Chloroflexi;Dehalococcoidia;SAR202 clade;	uncultured bacterium	25185
+AY726843	1	1232	Bacteria;Proteobacteria;Gammaproteobacteria;Alteromonadales;Alteromonadaceae;Alteromonas;	uncultured gamma proteobacterium	3339
+AY726847	1	1222	Bacteria;Actinobacteriota;Acidimicrobiia;Microtrichales;Microtrichaceae;uncultured;	uncultured bacterium	43306
+AY726882	1	1244	Bacteria;Proteobacteria;Gammaproteobacteria;Alteromonadales;Pseudoalteromonadaceae;Pseudoalteromonas;	uncultured Pseudoalteromonas sp.	3394
+AY726883	1	1242	Bacteria;SAR324 clade(Marine group B);	uncultured bacterium	46586
+AY726886	1	1207	Bacteria;SAR324 clade(Marine group B);	uncultured delta proteobacterium	46586
+AY726967	1	1236	Bacteria;Proteobacteria;Gammaproteobacteria;Alteromonadales;Alteromonadaceae;Alteromonas;	uncultured Alteromonas sp.	3339
+AY744399	55976	57385	Bacteria;Proteobacteria;Alphaproteobacteria;Puniceispirillales;SAR116 clade;	uncultured alpha proteobacterium EBAC2C11	26032
+AY856363	1	1409	Archaea;Halobacterota;Halobacteria;Halobacterales;Halomicrobiaceae;uncultured;	uncultured archaeon	43042
+EU259787	1	1453	Bacteria;Cyanobacteria;Cyanobacteriia;Chloroplast;	uncultured bacterium	44561
+EU268117	1	1452	Bacteria;Cyanobacteria;Cyanobacteriia;Chloroplast;	uncultured bacterium	44561
+FR683359	1	1497	Bacteria;Proteobacteria;Gammaproteobacteria;Oceanospirillales;Nitrincolaceae;uncultured;	uncultured marine bacterium	26778
+FR683378	1	1485	Bacteria;Bacteroidota;Bacteroidia;Flavobacteriales;Flavobacteriaceae;Formosa;	uncultured marine bacterium	44222
+FR683443	1	1480	Bacteria;Bacteroidota;Bacteroidia;Flavobacteriales;Flavobacteriaceae;Formosa;	uncultured marine bacterium	44222
+FR683452	1	1468	Bacteria;Proteobacteria;Gammaproteobacteria;SAR86 clade;	uncultured marine bacterium	26808
+HM103738	1	947	Archaea;Crenarchaeota;Nitrososphaeria;Nitrosopumilales;Nitrosopumilaceae;	uncultured marine group I thaumarchaeote	42940
+FR683711	1	1469	Bacteria;Proteobacteria;Gammaproteobacteria;SAR86 clade;	uncultured marine bacterium	26808
+FR683792	1	1427	Bacteria;Proteobacteria;Alphaproteobacteria;Rhodobacterales;Rhodobacteraceae;Amylibacter;	uncultured marine bacterium	11445
+FR683900	1	1492	Bacteria;Proteobacteria;Gammaproteobacteria;Cellvibrionales;Porticoccaceae;SAR92 clade;	uncultured marine bacterium	11541
+FR684049	1	1494	Bacteria;Proteobacteria;Gammaproteobacteria;Cellvibrionales;Porticoccaceae;SAR92 clade;	uncultured marine bacterium	11541
+AY869680	1	1463	Bacteria;Chloroflexi;Dehalococcoidia;SAR202 clade;	uncultured bacterium	25185
+FR684215	1	1469	Bacteria;Proteobacteria;Gammaproteobacteria;SAR86 clade;	uncultured marine bacterium	26808
+FR684614	1	1497	Bacteria;Proteobacteria;Gammaproteobacteria;SAR86 clade;	uncultured marine bacterium	26808
+FR684736	1	1469	Bacteria;Cyanobacteria;Cyanobacteriia;Chloroplast;	uncultured marine bacterium	44561
+FR684911	1	1497	Bacteria;Proteobacteria;Gammaproteobacteria;SAR86 clade;	uncultured marine bacterium	26808
+EU287171	1	1505	Bacteria;Proteobacteria;Gammaproteobacteria;Alteromonadales;Colwelliaceae;Colwellia;	uncultured bacterium	3379
+FR685722	1	1484	Bacteria;Bacteroidota;Bacteroidia;Flavobacteriales;Flavobacteriaceae;uncultured;	uncultured marine bacterium	44304
+FR686054	1	1414	Bacteria;Proteobacteria;Alphaproteobacteria;Rhodobacterales;Rhodobacteraceae;Planktomarina;	uncultured marine bacterium	11455
+FR686064	1	1480	Bacteria;Bacteroidota;Bacteroidia;Flavobacteriales;Flavobacteriaceae;Ulvibacter;	uncultured marine bacterium	44295
+AY907769	1	1521	Bacteria;Marinimicrobia (SAR406 clade);	uncultured bacterium	11409
+AY907781	1	1504	Bacteria;Marinimicrobia (SAR406 clade);	uncultured bacterium	11409
+AY907820	1	1458	Bacteria;Chloroflexi;Dehalococcoidia;SAR202 clade;	uncultured bacterium	25185
+CR954199	69730	71299	Bacteria;Cyanobacteria;Cyanobacteriia;Chloroplast;	Ostreococcus tauri	44561
+JQ579911	1	1480	Bacteria;Bacteroidota;Bacteroidia;Flavobacteriales;Cryomorphaceae;Vicingus;	uncultured Bacteroidetes bacterium	44181
+HM117554	1	1400	Bacteria;Bacteroidota;Bacteroidia;Flavobacteriales;Flavobacteriaceae;NS5 marine group;	uncultured marine bacterium	44262
+HM127167	1	1409	Bacteria;Proteobacteria;Alphaproteobacteria;Sphingomonadales;Sphingomonadaceae;Sphingobium;	uncultured bacterium	2850
+HM129439	1	1414	Bacteria;Cyanobacteria;Cyanobacteriia;Synechococcales;Cyanobiaceae;Cyanobium PCC-6307;	uncultured bacterium	44829
+GU451676	1	1235	Bacteria;Proteobacteria;Gammaproteobacteria;Alteromonadales;Alteromonadaceae;Alteromonas;	uncultured bacterium	3339
+HM142467	1	1498	Bacteria;Proteobacteria;Gammaproteobacteria;Alteromonadales;Pseudoalteromonadaceae;Pseudoalteromonas;	uncultured bacterium	3394
+GU474844	39782	41307	Bacteria;Proteobacteria;Gammaproteobacteria;Cellvibrionales;Halieaceae;OM60(NOR5) clade;	uncultured gamma proteobacterium HF0010_05D02	11534
+JQ678385	1	1530	Bacteria;Marinimicrobia (SAR406 clade);	uncultured bacterium	11409
+JQ678403	1	1505	Bacteria;Proteobacteria;Gammaproteobacteria;Steroidobacterales;Woeseiaceae;Woeseia;	uncultured bacterium	26832
+JQ678410	1	1465	Bacteria;Chloroflexi;Dehalococcoidia;SAR202 clade;	uncultured bacterium	25185
+JQ678431	1	1528	Bacteria;Marinimicrobia (SAR406 clade);	uncultured bacterium	11409
+JQ678468	1	1495	Bacteria;Bacteroidota;Bacteroidia;Flavobacteriales;NS9 marine group;	uncultured bacterium	44308
+JQ678482	1	1451	Bacteria;Proteobacteria;Alphaproteobacteria;SAR11 clade;Clade I;uncultured;	uncultured bacterium	26231
+JQ678490	1	1491	Bacteria;Proteobacteria;Gammaproteobacteria;Thiomicrospirales;Thioglobaceae;SUP05 cluster;	uncultured bacterium	26850
+JQ678491	1	1486	Bacteria;Bacteroidota;Bacteroidia;Flavobacteriales;NS9 marine group;	uncultured bacterium	44308
+JQ678498	1	1506	Bacteria;Proteobacteria;Gammaproteobacteria;Oceanospirillales;Pseudohongiellaceae;Pseudohongiella;	uncultured bacterium	26782
+JQ678500	1	1545	Bacteria;Verrucomicrobiota;Verrucomicrobiae;Arctic97B-4 marine group;	uncultured bacterium	46772
+JQ678522	1	1510	Bacteria;Bacteroidota;Bacteroidia;Flavobacteriales;Flavobacteriaceae;Formosa;	uncultured bacterium	44222
+JQ678566	1	1505	Bacteria;Proteobacteria;Gammaproteobacteria;Oceanospirillales;Saccharospirillaceae;Spongiispira;	uncultured bacterium	26793
+JN018915	1	1419	Bacteria;Marinimicrobia (SAR406 clade);	uncultured bacterium	11409
+JN018991	1	1360	Bacteria;Proteobacteria;Alphaproteobacteria;Rhodospirillales;Magnetospiraceae;uncultured;	uncultured bacterium	26182
+JQ712062	1	1490	Bacteria;Bacteroidota;Bacteroidia;Flavobacteriales;Flavobacteriaceae;NS5 marine group;	uncultured bacterium	44262
+EU394547	1	1451	Bacteria;Proteobacteria;Alphaproteobacteria;Rhodospirillales;AEGEAN-169 marine group;	uncultured Alphaproteobacteria bacterium	26177
+EU394562	1	1447	Bacteria;Cyanobacteria;Cyanobacteriia;Chloroplast;	Haptophyta environmental samples	44561
+EU394574	1	1482	Bacteria;Bacteroidota;Bacteroidia;Flavobacteriales;Flavobacteriaceae;Aurantivirga;	uncultured Flavobacteriaceae bacterium	44198
+JQ753117	1	1499	Bacteria;Proteobacteria;Gammaproteobacteria;Alteromonadales;Pseudoalteromonadaceae;Pseudoalteromonas;	uncultured gamma proteobacterium	3394
+JQ753126	1	1502	Bacteria;Proteobacteria;Gammaproteobacteria;Oceanospirillales;Saccharospirillaceae;Oleispira;	uncultured gamma proteobacterium	26791
+JQ753157	1	1489	Bacteria;Bacteroidota;Bacteroidia;Flavobacteriales;Flavobacteriaceae;Polaribacter;	uncultured bacterium	44268
+JQ800676	1	1461	Bacteria;Proteobacteria;Alphaproteobacteria;Sphingomonadales;Sphingomonadaceae;Erythrobacter;	uncultured bacterium	26245
+DQ009125	1	1942	Bacteria;Proteobacteria;Gammaproteobacteria;SAR86 clade;	uncultured marine bacterium	26808
+DQ009135	1	2271	Bacteria;Proteobacteria;Gammaproteobacteria;Cellvibrionales;Halieaceae;OM60(NOR5) clade;	uncultured marine bacterium	11534
+DQ009139	1	2091	Bacteria;Proteobacteria;Gammaproteobacteria;Thiotrichales;Thiotrichaceae;uncultured;	uncultured marine bacterium	3770
+DQ009141	1	1996	Bacteria;Proteobacteria;Gammaproteobacteria;SAR86 clade;	uncultured marine bacterium	26808
+DQ009159	1	1986	Bacteria;Marinimicrobia (SAR406 clade);	uncultured marine bacterium	11409
+DQ009161	1	1974	Bacteria;Proteobacteria;Alphaproteobacteria;SAR11 clade;Clade II;	uncultured marine bacterium	26232
+DQ009253	1	1978	Bacteria;Proteobacteria;Alphaproteobacteria;SAR11 clade;Clade I;Clade Ib;	uncultured marine bacterium	26230
+DQ009291	1	2219	Bacteria;Proteobacteria;Alphaproteobacteria;Rhodobacterales;Rhodobacteraceae;uncultured;	uncultured marine bacterium	2666
+DQ009427	1	2076	Bacteria;Marinimicrobia (SAR406 clade);	uncultured marine bacterium	11409
+DQ009434	1	2078	Bacteria;Bacteroidota;Bacteroidia;Flavobacteriales;Flavobacteriaceae;NS2b marine group;	uncultured marine bacterium	44259
+DQ009453	1	1963	Bacteria;Proteobacteria;Alphaproteobacteria;Rhodospirillales;AEGEAN-169 marine group;	uncultured marine bacterium	26177
+DQ009458	1	2068	Bacteria;Marinimicrobia (SAR406 clade);	uncultured marine bacterium	11409
+DQ009478	1	1823	Bacteria;Nitrospinota;Nitrospinia;Nitrospinales;Nitrospinaceae;Nitrospina;	uncultured marine bacterium	45982
+DQ071172	1	1397	Bacteria;Proteobacteria;Alphaproteobacteria;SAR11 clade;Clade I;uncultured;	uncultured marine bacterium	26231
+DQ116002	1	1486	Bacteria;Proteobacteria;Gammaproteobacteria;Alteromonadales;Alteromonadaceae;Rheinheimera;	uncultured bacterium	26307
+DQ117432	1	1510	Bacteria;Proteobacteria;Gammaproteobacteria;Alteromonadales;Alteromonadaceae;Alteromonas;	uncultured bacterium	3339
+DQ156348	18592	20063	Archaea;Thermoplasmatota;Thermoplasmata;Marine Group II;	uncultured marine group II euryarchaeote HF70_59C08	43141
+DQ156396	1	1264	Archaea;Thermoplasmatota;Thermoplasmata;Marine Group II;	uncultured marine group II euryarchaeote HF10_61D03	43141
+DQ156443	1	1290	Archaea;Thermoplasmatota;Thermoplasmata;Marine Group II;	uncultured marine group II euryarchaeote HF200_50D06	43141
+DQ156479	1	1258	Archaea;Thermoplasmatota;Thermoplasmata;Marine Group III;	uncultured marine group III euryarchaeote HF10_21C05	43142
+DQ156480	1	1271	Archaea;Thermoplasmatota;Thermoplasmata;Marine Group III;	uncultured marine group III euryarchaeote HF130_95B02	43142
+DQ156481	1	1248	Archaea;Thermoplasmatota;Thermoplasmata;Marine Group III;	uncultured marine group III euryarchaeote HF130_43E12	43142
+DQ269094	1	1345	Bacteria;Cyanobacteria;Cyanobacteriia;Synechococcales;Synechococcales Incertae Sedis;Schizothrix LEGE 07164;	uncultured cyanobacterium	44841
+DQ299286	1	1392	Archaea;Thermoplasmatota;Thermoplasmata;Marine Group II;	uncultured marine group II euryarchaeote	43141
+DQ300608	1	1456	Bacteria;Proteobacteria;Gammaproteobacteria;Alteromonadales;Alteromonadaceae;Alteromonas;	uncultured bacterium	3339
+DQ300613	1	1323	Bacteria;Chloroflexi;JG30-KF-CM66;	uncultured bacterium	1446
+DQ337006	1	1494	Bacteria;Proteobacteria;Gammaproteobacteria;Oceanospirillales;Saccharospirillaceae;Oceanobacter;	uncultured bacterium	26789
+EU488272	1	1451	Bacteria;Proteobacteria;Alphaproteobacteria;Sphingomonadales;Sphingomonadaceae;Altererythrobacter;	uncultured bacterium	26240
+DQ374241	1	1077	Archaea;Thermoplasmatota;Thermoplasmata;Marine Group II;	uncultured bacterium	43141
+EU491156	1	1522	Bacteria;Marinimicrobia (SAR406 clade);	uncultured bacterium	11409
+DQ395037	1	1491	Bacteria;Bacteroidota;Bacteroidia;Flavobacteriales;Cryomorphaceae;Vicingus;	uncultured Bacteroidetes bacterium	44181
+DQ395511	1	1537	Bacteria;Verrucomicrobiota;Verrucomicrobiae;Verrucomicrobiales;Rubritaleaceae;Roseibacillus;	uncultured organism	46838
+DQ395548	1	1542	Bacteria;Verrucomicrobiota;Verrucomicrobiae;Verrucomicrobiales;DEV007;	uncultured organism	46832
+DQ395552	1	1518	Bacteria;Bacteroidota;Bacteroidia;Flavobacteriales;NS7 marine group;	uncultured organism	44307
+DQ395891	1	1449	Bacteria;Proteobacteria;Alphaproteobacteria;Caulobacterales;Hyphomonadaceae;Henriciella;	uncultured organism	2398
+DQ396091	1	1479	Bacteria;Proteobacteria;Alphaproteobacteria;Rhodospirillales;Thalassospiraceae;Thalassospira;	uncultured organism	26197
+DQ396156	1	1469	Bacteria;Proteobacteria;Alphaproteobacteria;Sphingomonadales;Sphingomonadaceae;Altererythrobacter;	uncultured organism	26240
+DQ396194	1	1479	Bacteria;Proteobacteria;Alphaproteobacteria;Sphingomonadales;Sphingomonadaceae;Erythrobacter;	uncultured organism	26245
+DQ396208	1	1454	Bacteria;Proteobacteria;Alphaproteobacteria;Sphingomonadales;Sphingomonadaceae;Altererythrobacter;	uncultured organism	26240
+DQ396288	1	1534	Bacteria;Proteobacteria;Gammaproteobacteria;Cellvibrionales;Cellvibrionaceae;uncultured;	uncultured organism	11527
+DQ396294	1	1513	Bacteria;Verrucomicrobiota;Verrucomicrobiae;Arctic97B-4 marine group;	uncultured organism	46772
+DQ396337	1	1556	Bacteria;Proteobacteria;Gammaproteobacteria;Thiomicrospirales;Thioglobaceae;SUP05 cluster;	uncultured organism	26850
+HQ529790	1	904	Archaea;Thermoplasmatota;Thermoplasmata;Marine Group II;	uncultured archaeon	43141
+HQ529817	1	915	Archaea;Thermoplasmatota;Thermoplasmata;Marine Group II;	uncultured archaeon	43141
+HQ529849	1	917	Archaea;Thermoplasmatota;Thermoplasmata;Marine Group II;	uncultured archaeon	43141
+HQ529855	1	916	Archaea;Crenarchaeota;Nitrososphaeria;Nitrosopumilales;Nitrosopumilaceae;Candidatus Nitrosopelagicus;	uncultured archaeon	42941
+HQ529887	1	906	Archaea;Crenarchaeota;Nitrososphaeria;Nitrosopumilales;Nitrosopumilaceae;Candidatus Nitrosopelagicus;	uncultured archaeon	42941
+HQ541865	1	1460	Archaea;Thermoplasmatota;Thermoplasmata;Marine Group II;	uncultured marine group II euryarchaeote	43141
+EU544738	1	1465	Bacteria;Proteobacteria;Gammaproteobacteria;Oceanospirillales;Nitrincolaceae;uncultured;	uncultured gamma proteobacterium	26778
+EU544748	1	1454	Bacteria;Proteobacteria;Gammaproteobacteria;SAR86 clade;	uncultured gamma proteobacterium	26808
+EU544808	1	1486	Bacteria;Proteobacteria;Gammaproteobacteria;Oceanospirillales;Nitrincolaceae;uncultured;	uncultured gamma proteobacterium	26778
+EU544837	1	1428	Bacteria;Proteobacteria;Alphaproteobacteria;SAR11 clade;Clade II;	uncultured Alphaproteobacteria bacterium	26232
+DQ513029	1	1499	Bacteria;Proteobacteria;Gammaproteobacteria;KI89A clade;	uncultured bacterium	3550
+DQ513090	1	1481	Bacteria;Actinobacteriota;Acidimicrobiia;Microtrichales;Microtrichaceae;Sva0996 marine group;	uncultured bacterium	43305
+GU553801	1	1400	Archaea;Thermoplasmatota;Thermoplasmata;Marine Group II;	uncultured archaeon	43141
+GU553802	1	1446	Archaea;Crenarchaeota;Nitrososphaeria;Nitrosopumilales;Nitrosopumilaceae;Candidatus Nitrosopumilus;	uncultured archaeon	42942
+EU570897	1	1483	Bacteria;Actinobacteriota;Acidimicrobiia;Actinomarinales;Actinomarinaceae;Candidatus Actinomarina;	uncultured bacterium	43292
+JX015618	1	1426	Bacteria;Proteobacteria;Alphaproteobacteria;Rhodobacterales;Rhodobacteraceae;Amylibacter;	uncultured bacterium	11445
+JX016104	1	1480	Bacteria;Bacteroidota;Bacteroidia;Flavobacteriales;Flavobacteriaceae;Flavicella;	uncultured bacterium	44217
+JX016471	1	1438	Bacteria;Proteobacteria;Alphaproteobacteria;SAR11 clade;Clade II;	uncultured bacterium	26232
+JX016602	1	1495	Bacteria;Bacteroidota;Bacteroidia;Flavobacteriales;NS9 marine group;	uncultured bacterium	44308
+EU592338	1	1399	Bacteria;Cyanobacteria;Cyanobacteriia;Chloroplast;	uncultured bacterium	44561
+JX017005	1	1403	Bacteria;Proteobacteria;Alphaproteobacteria;SAR11 clade;Clade I;uncultured;	uncultured bacterium	26231
+EU617783	1	1502	Bacteria;Proteobacteria;Gammaproteobacteria;Alteromonadales;Colwelliaceae;Colwellia;	uncultured bacterium	3379
+EU617785	1	1505	Bacteria;Proteobacteria;Gammaproteobacteria;Vibrionales;Vibrionaceae;Photobacterium;	uncultured bacterium	3781
+JX047105	1	1421	Bacteria;Proteobacteria;Alphaproteobacteria;Caulobacterales;Hyphomonadaceae;Hyphomonas;	uncultured Hyphomonas sp.	2400
+JN166197	1	1454	Bacteria;Cyanobacteria;Cyanobacteriia;Chloroplast;	uncultured marine microorganism	44561
+JN166233	1	1526	Bacteria;Gemmatimonadota;BD2-11 terrestrial group;	uncultured marine microorganism	45875
+JN166243	1	1480	Bacteria;Planctomycetota;Planctomycetes;Pirellulales;Pirellulaceae;Rhodopirellula;	uncultured marine microorganism	46100
+JN166247	1	1530	Bacteria;Verrucomicrobiota;Verrucomicrobiae;Arctic97B-4 marine group;	uncultured marine microorganism	46772
+JN166254	1	1500	Bacteria;Proteobacteria;Gammaproteobacteria;OM182 clade;	uncultured marine microorganism	26750
+JN166305	1	1465	Bacteria;Chloroflexi;Dehalococcoidia;SAR202 clade;	uncultured marine microorganism	25185
+JN166309	1	1461	Bacteria;Proteobacteria;Alphaproteobacteria;Rhodospirillales;Magnetospiraceae;Magnetospira;	uncultured marine microorganism	26179
+JN166337	1	1461	Bacteria;Chloroflexi;Dehalococcoidia;SAR202 clade;	uncultured marine microorganism	25185
+JN166361	1	1514	Bacteria;Proteobacteria;Gammaproteobacteria;Oceanospirillales;Pseudohongiellaceae;Pseudohongiella;	uncultured marine microorganism	26782
+HQ652519	1	1341	Bacteria;Proteobacteria;Alphaproteobacteria;SAR11 clade;Clade II;	uncultured bacterium	26232
+JN177592	1	1446	Bacteria;Proteobacteria;Alphaproteobacteria;Rhodobacterales;Rhodobacteraceae;Planktomarina;	uncultured Alphaproteobacteria bacterium	11455
+JN177595	1	1444	Bacteria;Proteobacteria;Alphaproteobacteria;Rhodobacterales;Rhodobacteraceae;Planktomarina;	uncultured Alphaproteobacteria bacterium	11455
+JN177596	1	1444	Bacteria;Proteobacteria;Alphaproteobacteria;Rhodobacterales;Rhodobacteraceae;Planktomarina;	uncultured Alphaproteobacteria bacterium	11455
+JN177647	1	1439	Bacteria;Proteobacteria;Alphaproteobacteria;Rhodobacterales;Rhodobacteraceae;Planktomarina;	uncultured Alphaproteobacteria bacterium	11455
+JN177654	1	1494	Bacteria;Proteobacteria;Gammaproteobacteria;Alteromonadales;Pseudoalteromonadaceae;Pseudoalteromonas;	uncultured Pseudoalteromonas sp.	3394
+HQ671756	1	1446	Bacteria;Cyanobacteria;Cyanobacteriia;Chloroplast;	uncultured bacterium	44561
+HQ671780	1	1479	Bacteria;Bacteroidota;Bacteroidia;Cytophagales;Cyclobacteriaceae;Marinoscillum;	uncultured bacterium	44087
+HQ671790	1	1439	Bacteria;Cyanobacteria;Cyanobacteriia;Chloroplast;	uncultured bacterium	44561
+HQ671808	1	1486	Bacteria;Bacteroidota;Bacteroidia;Flavobacteriales;Cryomorphaceae;NS10 marine group;	uncultured bacterium	44178
+HQ671810	1	1467	Bacteria;Proteobacteria;Alphaproteobacteria;Thalassobaculales;Nisaeaceae;OM75 clade;	uncultured bacterium	26255
+HQ671842	1	1493	Bacteria;Proteobacteria;Gammaproteobacteria;Oceanospirillales;Nitrincolaceae;uncultured;	uncultured bacterium	26778
+HQ671843	1	1485	Bacteria;Bacteroidota;Bacteroidia;Flavobacteriales;Crocinitomicaceae;Fluviicola;	uncultured bacterium	44170
+HQ671891	1	1439	Bacteria;Cyanobacteria;Cyanobacteriia;Chloroplast;	uncultured bacterium	44561
+HQ671908	1	1429	Bacteria;Chloroflexi;Dehalococcoidia;SAR202 clade;	uncultured bacterium	25185
+HQ671967	1	1514	Bacteria;Marinimicrobia (SAR406 clade);	uncultured bacterium	11409
+HQ671977	1	1462	Bacteria;Proteobacteria;Alphaproteobacteria;Rhodospirillales;Magnetospiraceae;Magnetospira;	uncultured bacterium	26179
+HQ671996	1	1459	Bacteria;Cyanobacteria;Cyanobacteriia;Synechococcales;Cyanobiaceae;Synechococcus CC9902;	uncultured bacterium	44831
+HQ672002	1	1448	Bacteria;SAR324 clade(Marine group B);	uncultured bacterium	46586
+HQ672013	1	1445	Bacteria;Cyanobacteria;Cyanobacteriia;Chloroplast;	uncultured bacterium	44561
+HQ672023	1	1447	Bacteria;Cyanobacteria;Cyanobacteriia;Chloroplast;	uncultured bacterium	44561
+HQ672103	1	1445	Bacteria;Cyanobacteria;Cyanobacteriia;Chloroplast;	uncultured bacterium	44561
+HQ672108	1	1451	Bacteria;Cyanobacteria;Cyanobacteriia;Chloroplast;	uncultured bacterium	44561
+HQ672169	1	1454	Bacteria;Actinobacteriota;Acidimicrobiia;Actinomarinales;Actinomarinaceae;Candidatus Actinomarina;	uncultured bacterium	43292
+HQ672204	1	1459	Bacteria;Cyanobacteria;Cyanobacteriia;Chloroplast;	uncultured bacterium	44561
+HQ672210	1	1440	Bacteria;Cyanobacteria;Cyanobacteriia;Chloroplast;	uncultured bacterium	44561
+HQ672216	1	1434	Bacteria;Cyanobacteria;Cyanobacteriia;Chloroplast;	uncultured bacterium	44561
+HQ672273	1	1437	Bacteria;Proteobacteria;Alphaproteobacteria;SAR11 clade;Clade I;uncultured;	uncultured bacterium	26231
+HQ672283	1	1257	Bacteria;Proteobacteria;Alphaproteobacteria;SAR11 clade;Clade I;uncultured;	uncultured bacterium	26231
+HQ672328	1	1435	Bacteria;Proteobacteria;Alphaproteobacteria;SAR11 clade;Clade I;Clade Ib;	uncultured bacterium	26230
+HQ672335	1	1435	Bacteria;Proteobacteria;Alphaproteobacteria;SAR11 clade;Clade I;uncultured;	uncultured bacterium	26231
+HQ672343	1	1480	Bacteria;SAR324 clade(Marine group B);	uncultured bacterium	46586
+HQ672383	1	1501	Bacteria;Proteobacteria;Gammaproteobacteria;Arenicellales;Arenicellaceae;uncultured;	uncultured bacterium	14622
+HQ672388	1	1436	Bacteria;Proteobacteria;Alphaproteobacteria;SAR11 clade;Clade II;	uncultured bacterium	26232
+HQ672419	1	1520	Bacteria;Marinimicrobia (SAR406 clade);	uncultured bacterium	11409
+HQ672430	1	1446	Bacteria;Proteobacteria;Alphaproteobacteria;SAR11 clade;uncultured;	uncultured bacterium	26235
+HQ672443	1	1436	Bacteria;Proteobacteria;Alphaproteobacteria;SAR11 clade;Clade II;	uncultured bacterium	26232
+HQ672454	1	1516	Bacteria;Proteobacteria;Gammaproteobacteria;UBA10353 marine group;	uncultured bacterium	26861
+HQ672457	1	1520	Bacteria;Marinimicrobia (SAR406 clade);	uncultured bacterium	11409
+HQ672469	1	1437	Bacteria;Proteobacteria;Alphaproteobacteria;SAR11 clade;Clade II;	uncultured bacterium	26232
+HQ672471	1	1437	Bacteria;Proteobacteria;Alphaproteobacteria;SAR11 clade;Clade I;uncultured;	uncultured bacterium	26231
+HQ672488	1	1492	Bacteria;Proteobacteria;Gammaproteobacteria;Thiomicrospirales;Thioglobaceae;SUP05 cluster;	uncultured bacterium	26850
+HQ672584	1	1445	Bacteria;Proteobacteria;Alphaproteobacteria;SAR11 clade;Clade II;	uncultured bacterium	26232
+HQ672585	1	1501	Bacteria;Proteobacteria;Gammaproteobacteria;UBA10353 marine group;	uncultured bacterium	26861
+HQ672600	1	1485	Bacteria;Nitrospinota;Nitrospinia;Nitrospinales;Nitrospinaceae;Nitrospina;	uncultured bacterium	45982
+HQ672606	1	1437	Bacteria;Proteobacteria;Alphaproteobacteria;SAR11 clade;Clade I;uncultured;	uncultured bacterium	26231
+HQ672614	1	1428	Bacteria;Proteobacteria;Alphaproteobacteria;SAR11 clade;Clade II;	uncultured bacterium	26232
+HQ672635	1	1436	Bacteria;Proteobacteria;Alphaproteobacteria;SAR11 clade;Clade I;uncultured;	uncultured bacterium	26231
+HQ672643	1	1480	Bacteria;Nitrospinota;Nitrospinia;Nitrospinales;Nitrospinaceae;Nitrospina;	uncultured bacterium	45982
+HQ672646	1	1481	Bacteria;SAR324 clade(Marine group B);	uncultured bacterium	46586
+HQ672669	1	1446	Bacteria;Proteobacteria;Alphaproteobacteria;SAR11 clade;Clade II;	uncultured bacterium	26232
+HQ672671	1	1502	Bacteria;Proteobacteria;Gammaproteobacteria;Arenicellales;Arenicellaceae;uncultured;	uncultured bacterium	14622
+HQ672684	1	1504	Bacteria;Proteobacteria;Gammaproteobacteria;Thiomicrospirales;Thioglobaceae;SUP05 cluster;	uncultured bacterium	26850
+HQ672701	1	1507	Bacteria;Verrucomicrobiota;Verrucomicrobiae;Arctic97B-4 marine group;	uncultured bacterium	46772
+HQ672720	1	1447	Bacteria;Proteobacteria;Alphaproteobacteria;SAR11 clade;Clade I;Clade Ib;	uncultured bacterium	26230
+HQ672746	1	1512	Bacteria;Marinimicrobia (SAR406 clade);	uncultured bacterium	11409
+HQ672748	1	1471	Bacteria;Proteobacteria;Gammaproteobacteria;Thiotrichales;Thiotrichaceae;uncultured;	uncultured bacterium	3770
+HQ672778	1	1523	Bacteria;Marinimicrobia (SAR406 clade);	uncultured bacterium	11409
+HQ672793	1	1475	Bacteria;Chloroflexi;Dehalococcoidia;SAR202 clade;	uncultured bacterium	25185
+HQ672805	1	1482	Bacteria;Chloroflexi;Dehalococcoidia;SAR202 clade;	uncultured bacterium	25185
+HQ672813	1	1446	Bacteria;Proteobacteria;Alphaproteobacteria;SAR11 clade;Clade I;Clade Ia;	uncultured bacterium	26229
+HQ672817	1	1480	Bacteria;Actinobacteriota;Acidimicrobiia;Microtrichales;Microtrichaceae;uncultured;	uncultured bacterium	43306
+HQ672830	1	1436	Bacteria;Proteobacteria;Alphaproteobacteria;SAR11 clade;Clade I;uncultured;	uncultured bacterium	26231
+HQ672841	1	1434	Bacteria;Proteobacteria;Alphaproteobacteria;SAR11 clade;Clade II;	uncultured bacterium	26232
+HQ672861	1	1522	Bacteria;Marinimicrobia (SAR406 clade);	uncultured bacterium	11409
+HQ672912	1	1480	Bacteria;SAR324 clade(Marine group B);	uncultured bacterium	46586
+HQ672972	1	1520	Bacteria;Marinimicrobia (SAR406 clade);	uncultured bacterium	11409
+HQ673011	1	1478	Bacteria;SAR324 clade(Marine group B);	uncultured bacterium	46586
+HQ673034	1	1523	Bacteria;Gemmatimonadota;BD2-11 terrestrial group;	uncultured bacterium	45875
+HQ673064	1	1522	Bacteria;Marinimicrobia (SAR406 clade);	uncultured bacterium	11409
+HQ673071	1	1436	Bacteria;Proteobacteria;Alphaproteobacteria;SAR11 clade;Clade I;uncultured;	uncultured bacterium	26231
+HQ673157	1	1513	Bacteria;Marinimicrobia (SAR406 clade);	uncultured bacterium	11409
+HQ673163	1	1436	Bacteria;Proteobacteria;Alphaproteobacteria;SAR11 clade;Clade I;uncultured;	uncultured bacterium	26231
+HQ673169	1	1436	Bacteria;Proteobacteria;Alphaproteobacteria;SAR11 clade;Clade I;uncultured;	uncultured bacterium	26231
+HQ673183	1	1490	Bacteria;Actinobacteriota;Acidimicrobiia;Microtrichales;Microtrichaceae;Sva0996 marine group;	uncultured bacterium	43305
+HQ673228	1	1451	Bacteria;SAR324 clade(Marine group B);	uncultured bacterium	46586
+HQ673241	1	1522	Bacteria;Marinimicrobia (SAR406 clade);	uncultured bacterium	11409
+HQ673270	1	1522	Bacteria;Marinimicrobia (SAR406 clade);	uncultured bacterium	11409
+HQ673353	1	1476	Bacteria;Actinobacteriota;Acidimicrobiia;Microtrichales;Microtrichaceae;Sva0996 marine group;	uncultured bacterium	43305
+HQ673364	1	1501	Bacteria;Proteobacteria;Gammaproteobacteria;Arenicellales;Arenicellaceae;uncultured;	uncultured bacterium	14622
+HQ673390	1	1528	Bacteria;Marinimicrobia (SAR406 clade);	uncultured bacterium	11409
+HQ673396	1	1435	Bacteria;Proteobacteria;Alphaproteobacteria;SAR11 clade;Clade II;	uncultured bacterium	26232
+HQ673528	1	1465	Bacteria;Proteobacteria;Alphaproteobacteria;Puniceispirillales;SAR116 clade;	uncultured bacterium	26032
+HQ673536	1	1466	Bacteria;SAR324 clade(Marine group B);	uncultured bacterium	46586
+HQ673550	1	1502	Bacteria;Proteobacteria;Gammaproteobacteria;Cellvibrionales;Cellvibrionaceae;uncultured;	uncultured bacterium	11527
+HQ673566	1	1504	Bacteria;Proteobacteria;Gammaproteobacteria;Steroidobacterales;Woeseiaceae;Woeseia;	uncultured bacterium	26832
+HQ673647	1	1492	Bacteria;Bacteroidota;Bacteroidia;Flavobacteriales;Flavobacteriaceae;NS2b marine group;	uncultured bacterium	44259
+HQ673652	1	1436	Bacteria;Proteobacteria;Alphaproteobacteria;SAR11 clade;Clade II;	uncultured bacterium	26232
+HQ673682	1	1487	Bacteria;Bacteroidota;Bacteroidia;Flavobacteriales;NS9 marine group;	uncultured bacterium	44308
+HQ673691	1	1522	Bacteria;Marinimicrobia (SAR406 clade);	uncultured bacterium	11409
+HQ673710	1	1445	Bacteria;Proteobacteria;Alphaproteobacteria;SAR11 clade;Clade II;	uncultured bacterium	26232
+HQ673734	1	1524	Bacteria;Marinimicrobia (SAR406 clade);	uncultured bacterium	11409
+HQ673737	1	1489	Bacteria;Marinimicrobia (SAR406 clade);	uncultured bacterium	11409
+HQ673742	1	1447	Bacteria;Proteobacteria;Alphaproteobacteria;Rhodospirillales;AEGEAN-169 marine group;	uncultured bacterium	26177
+HQ673764	1	1437	Bacteria;Proteobacteria;Alphaproteobacteria;SAR11 clade;Clade I;uncultured;	uncultured bacterium	26231
+HQ673776	1	1505	Bacteria;Proteobacteria;Gammaproteobacteria;HgCo23;	uncultured bacterium	26675
+HQ673808	1	1478	Bacteria;Actinobacteriota;Acidimicrobiia;Microtrichales;Microtrichaceae;Sva0996 marine group;	uncultured bacterium	43305
+HQ673826	1	1508	Bacteria;Marinimicrobia (SAR406 clade);	uncultured bacterium	11409
+HQ673841	1	1523	Bacteria;Marinimicrobia (SAR406 clade);	uncultured bacterium	11409
+HQ673846	1	1521	Bacteria;Marinimicrobia (SAR406 clade);	uncultured bacterium	11409
+HQ673860	1	1468	Bacteria;Actinobacteriota;Acidimicrobiia;Microtrichales;Microtrichaceae;Sva0996 marine group;	uncultured bacterium	43305
+HQ673882	1	1474	Bacteria;SAR324 clade(Marine group B);	uncultured bacterium	46586
+HQ673904	1	1436	Bacteria;Proteobacteria;Alphaproteobacteria;SAR11 clade;Clade I;uncultured;	uncultured bacterium	26231
+HQ673908	1	1463	Bacteria;SAR324 clade(Marine group B);	uncultured bacterium	46586
+HQ673916	1	1435	Bacteria;Proteobacteria;Alphaproteobacteria;SAR11 clade;Clade I;uncultured;	uncultured bacterium	26231
+HQ673941	1	1251	Bacteria;Proteobacteria;Alphaproteobacteria;SAR11 clade;Clade II;	uncultured bacterium	26232
+HQ673968	1	1448	Bacteria;Proteobacteria;Alphaproteobacteria;SAR11 clade;Clade I;Clade Ib;	uncultured bacterium	26230
+HQ673984	1	1259	Bacteria;Proteobacteria;Alphaproteobacteria;SAR11 clade;Clade II;	uncultured bacterium	26232
+HQ673994	1	1476	Bacteria;SAR324 clade(Marine group B);	uncultured bacterium	46586
+HQ674035	1	1522	Bacteria;Marinimicrobia (SAR406 clade);	uncultured bacterium	11409
+HQ674037	1	1480	Bacteria;SAR324 clade(Marine group B);	uncultured bacterium	46586
+HQ674102	1	1479	Bacteria;Actinobacteriota;Acidimicrobiia;Microtrichales;Microtrichaceae;Sva0996 marine group;	uncultured bacterium	43305
+HQ674105	1	1523	Bacteria;Marinimicrobia (SAR406 clade);	uncultured bacterium	11409
+HQ674116	1	1437	Bacteria;Proteobacteria;Alphaproteobacteria;SAR11 clade;Clade II;	uncultured bacterium	26232
+HQ674120	1	1448	Bacteria;Proteobacteria;Alphaproteobacteria;SAR11 clade;Clade II;	uncultured bacterium	26232
+HQ674163	1	1495	Bacteria;SAR324 clade(Marine group B);	uncultured bacterium	46586
+HQ674189	1	1476	Bacteria;Actinobacteriota;Acidimicrobiia;Microtrichales;Microtrichaceae;Sva0996 marine group;	uncultured bacterium	43305
+HQ674207	1	1447	Bacteria;Proteobacteria;Alphaproteobacteria;SAR11 clade;Clade II;	uncultured bacterium	26232
+HQ674222	1	1525	Bacteria;Gemmatimonadota;BD2-11 terrestrial group;	uncultured bacterium	45875
+HQ674232	1	1463	Bacteria;Chloroflexi;Dehalococcoidia;SAR202 clade;	uncultured bacterium	25185
+HQ674234	1	1446	Bacteria;Proteobacteria;Alphaproteobacteria;SAR11 clade;Clade II;	uncultured bacterium	26232
+HQ674248	1	1463	Bacteria;Proteobacteria;Alphaproteobacteria;Defluviicoccales;uncultured;	uncultured bacterium	46135
+HQ674255	1	1433	Bacteria;Proteobacteria;Alphaproteobacteria;SAR11 clade;Clade II;	uncultured bacterium	26232
+HQ674256	1	1502	Bacteria;Proteobacteria;Gammaproteobacteria;Arenicellales;Arenicellaceae;uncultured;	uncultured bacterium	14622
+HQ674260	1	1476	Bacteria;Chloroflexi;Dehalococcoidia;SAR202 clade;	uncultured bacterium	25185
+HQ674261	1	1518	Bacteria;Proteobacteria;Gammaproteobacteria;UBA10353 marine group;	uncultured bacterium	26861
+HQ674271	1	1518	Bacteria;Proteobacteria;Gammaproteobacteria;UBA10353 marine group;	uncultured bacterium	26861
+HQ674329	1	1524	Bacteria;Marinimicrobia (SAR406 clade);	uncultured bacterium	11409
+HQ674365	1	1523	Bacteria;Marinimicrobia (SAR406 clade);	uncultured bacterium	11409
+HQ674482	1	1462	Bacteria;Proteobacteria;Alphaproteobacteria;Rhodospirillales;Magnetospiraceae;uncultured;	uncultured bacterium	26182
+HQ674511	1	1435	Bacteria;Proteobacteria;Alphaproteobacteria;SAR11 clade;Clade II;	uncultured bacterium	26232
+HQ674551	1	1463	Bacteria;Chloroflexi;Dehalococcoidia;SAR202 clade;	uncultured bacterium	25185
+HQ674572	1	1522	Bacteria;Marinimicrobia (SAR406 clade);	uncultured bacterium	11409
+HQ674579	1	1521	Bacteria;Marinimicrobia (SAR406 clade);	uncultured bacterium	11409
+HQ674623	1	1540	Bacteria;SAR324 clade(Marine group B);	uncultured bacterium	46586
+EU650238	1	1337	Archaea;Thermoplasmatota;Thermoplasmata;Marine Group II;	uncultured marine group II euryarchaeote	43141
+EU650260	1	1318	Archaea;Thermoplasmatota;Thermoplasmata;Marine Group III;	uncultured marine group III euryarchaeote	43142
+EU686587	16947	18447	Bacteria;Verrucomicrobiota;Lentisphaeria;Victivallales;Arctic95B-14;	uncultured bacterium AD106-G5	46757
+EU686588	13514	15011	Bacteria;Actinobacteriota;Acidimicrobiia;Microtrichales;Microtrichaceae;Sva0996 marine group;	uncultured bacterium AD12-A11	43305
+EU686604	16726	18273	Bacteria;Verrucomicrobiota;Verrucomicrobiae;Arctic97B-4 marine group;	uncultured bacterium AD243-C9	46772
+EU686612	24178	25713	Bacteria;Proteobacteria;Gammaproteobacteria;UBA10353 marine group;	uncultured bacterium KM3-174-C5	26861
+EU686615	30301	31771	Archaea;Crenarchaeota;Nitrososphaeria;Nitrosopumilales;Nitrosopumilaceae;	uncultured marine crenarchaeote SAT1000-23-F7	42940
+EU686616	36653	38121	Archaea;Thermoplasmatota;Thermoplasmata;Marine Group II;	uncultured marine group II euryarchaeote KM3-85-F5	43141
+EU686618	3359	4826	Archaea;Thermoplasmatota;Thermoplasmata;Marine Group II;	uncultured marine group II euryarchaeote KM3-72-G3	43141
+EU686623	12708	14181	Archaea;Crenarchaeota;Nitrososphaeria;Nitrosopumilales;Nitrosopumilaceae;	uncultured marine crenarchaeote AD1000-56-E4	42940
+EU686628	16674	18140	Archaea;Thermoplasmatota;Thermoplasmata;Marine Group III;	uncultured marine group III euryarchaeote AD1000-40-D7	43142
+EU686636	3067	4530	Archaea;Thermoplasmatota;Thermoplasmata;Marine Group III;	uncultured marine group III euryarchaeote KM3-28-E8	43142
+EU686640	25381	26914	Bacteria;Proteobacteria;Gammaproteobacteria;SAR86 clade;	uncultured bacterium KM3-193-H12	26808
+EU686643	5839	7313	Archaea;Thermoplasmatota;Thermoplasmata;Marine Group II;	uncultured marine group II euryarchaeote AD1000-18-D2	43141
+JN233006	1	1447	Bacteria;Bacteroidota;Bacteroidia;Flavobacteriales;Flavobacteriaceae;Formosa;	uncultured Flavobacterium sp.	44222
+JN233016	1	1438	Bacteria;SAR324 clade(Marine group B);	uncultured SAR324 cluster bacterium	46586
+JN233054	1	1435	Bacteria;Chloroflexi;Dehalococcoidia;SAR202 clade;	uncultured SAR202 cluster bacterium	25185
+JN233106	1	1375	Bacteria;Proteobacteria;Alphaproteobacteria;Caulobacterales;Hyphomonadaceae;Ponticaulis;	uncultured Hyphomonadaceae bacterium	2404
+JN233131	1	1427	Bacteria;Chloroflexi;Dehalococcoidia;SAR202 clade;	uncultured SAR202 cluster bacterium	25185
+JN233132	1	1477	Bacteria;Bdellovibrionota;Bdellovibrionia;Bacteriovoracales;Bacteriovoracaceae;uncultured;	uncultured delta proteobacterium	44437
+JN233157	1	1397	Bacteria;Proteobacteria;Alphaproteobacteria;SAR11 clade;Clade II;	uncultured marine bacterium	26232
+JN233527	1	1440	Bacteria;Bacteroidota;Bacteroidia;Cytophagales;Cyclobacteriaceae;Marinoscillum;	uncultured marine bacterium	44087
+JX206564	1	1446	Bacteria;Cyanobacteria;Cyanobacteriia;Synechococcales;Cyanobiaceae;Cyanobium PCC-6307;	uncultured bacterium	44829
+JX206777	1	1466	Bacteria;Actinobacteriota;Acidimicrobiia;Actinomarinales;Actinomarinaceae;Candidatus Actinomarina;	uncultured bacterium	43292
+HQ754131	1	1450	Bacteria;Proteobacteria;Gammaproteobacteria;Burkholderiales;Comamonadaceae;Ideonella;	uncultured organism	46278
+EU791574	1	914	Archaea;Thermoplasmatota;Thermoplasmata;Marine Group II;	uncultured euryarchaeote	43141
+EU795094	11172	12675	Bacteria;Bacteroidota;Bacteroidia;Flavobacteriales;NS9 marine group;	uncultured bacterium ARCTIC09_D_03	44308
+EU795175	18550	20063	Bacteria;Proteobacteria;Gammaproteobacteria;Cellvibrionales;Porticoccaceae;SAR92 clade;	uncultured bacterium HF0010_05E14	11541
+EU795184	7277	8739	Bacteria;Proteobacteria;Alphaproteobacteria;Puniceispirillales;SAR116 clade;	uncultured bacterium HF0070_34E11	26032
+EU795186	1137	2679	Bacteria;Marinimicrobia (SAR406 clade);	uncultured bacterium HF0500_01L02	11409
+EU795202	6061	7596	Bacteria;Proteobacteria;Gammaproteobacteria;HOC36;	uncultured bacterium HF0770_27E13	3546
+EU795215	10977	12472	Bacteria;SAR324 clade(Marine group B);	uncultured bacterium HF0130_20J24	46586
+EU795239	16117	17616	Bacteria;Bacteroidota;Bacteroidia;Flavobacteriales;Flavobacteriaceae;Ulvibacter;	uncultured bacterium ARCTIC16_F_12	44295
+EU795244	966	2471	Bacteria;Bacteroidota;Bacteroidia;Flavobacteriales;Flavobacteriaceae;NS5 marine group;	uncultured bacterium ARCTIC37_F_06	44262
+EU795252	9081	10590	Bacteria;Bacteroidota;Bacteroidia;Flavobacteriales;Flavobacteriaceae;NS5 marine group;	uncultured bacterium ARCTIC33_F_06	44262
+EU795287	4965	6516	Bacteria;Planctomycetota;Brocadiae;Brocadiales;Scalinduaceae;Candidatus Scalindua;	uncultured bacterium OMZ60_11L23	46029
+DQ906760	1	1497	Bacteria;Proteobacteria;Gammaproteobacteria;Arenicellales;Arenicellaceae;Arenicella;	uncultured Antarctic sea ice bacterium	11510
+EU799189	1	1462	Bacteria;Proteobacteria;Alphaproteobacteria;Thalassobaculales;Nisaeaceae;OM75 clade;	uncultured bacterium	26255
+EU799247	1	1450	Bacteria;Proteobacteria;Alphaproteobacteria;Puniceispirillales;SAR116 clade;	uncultured bacterium	26032
+EU799269	1	1451	Bacteria;Proteobacteria;Gammaproteobacteria;Thiotrichales;Thiotrichaceae;uncultured;	uncultured bacterium	3770
+EU799354	1	1454	Bacteria;Cyanobacteria;Cyanobacteriia;Chloroplast;	uncultured bacterium	44561
+EU799440	1	1451	Bacteria;Proteobacteria;Alphaproteobacteria;Puniceispirillales;SAR116 clade;	uncultured bacterium	26032
+EU799540	1	1504	Bacteria;Proteobacteria;Gammaproteobacteria;SAR86 clade;	uncultured bacterium	26808
+EU799541	1	1385	Bacteria;Proteobacteria;Alphaproteobacteria;Rhodobacterales;Rhodobacteraceae;uncultured;	uncultured bacterium	2666
+EU799550	1	1480	Bacteria;Actinobacteriota;Acidimicrobiia;Actinomarinales;Actinomarinaceae;Candidatus Actinomarina;	uncultured bacterium	43292
+EU799557	1	1286	Bacteria;Proteobacteria;Gammaproteobacteria;Steroidobacterales;Woeseiaceae;Woeseia;	uncultured bacterium	26832
+EU799585	1	1456	Bacteria;Proteobacteria;Alphaproteobacteria;Parvibaculales;OCS116 clade;	uncultured bacterium	26017
+EU799623	1	1467	Bacteria;Proteobacteria;Alphaproteobacteria;Rickettsiales;S25-593;	uncultured bacterium	2796
+EU799655	1	1454	Bacteria;Proteobacteria;Alphaproteobacteria;Thalassobaculales;Nisaeaceae;OM75 clade;	uncultured bacterium	26255
+EU799832	1	1497	Bacteria;Proteobacteria;Gammaproteobacteria;Cellvibrionales;Porticoccaceae;SAR92 clade;	uncultured bacterium	11541
+EU799850	1	1450	Bacteria;Proteobacteria;Alphaproteobacteria;SAR11 clade;Clade III;	uncultured bacterium	26233
+EU799855	1	1453	Bacteria;Proteobacteria;Alphaproteobacteria;Parvibaculales;OCS116 clade;	uncultured bacterium	26017
+EU799970	1	1467	Bacteria;Cyanobacteria;Cyanobacteriia;Chloroplast;	uncultured bacterium	44561
+EU800017	1	1503	Bacteria;Proteobacteria;Gammaproteobacteria;OM182 clade;	uncultured bacterium	26750
+EU800186	1	1306	Bacteria;Proteobacteria;Gammaproteobacteria;Burkholderiales;Burkholderiaceae;Polynucleobacter;	uncultured bacterium	46229
+EU800188	1	1480	Bacteria;Proteobacteria;Gammaproteobacteria;Oceanospirillales;Litoricolaceae;Litoricola;	uncultured bacterium	3628
+EU800402	1	1485	Bacteria;Actinobacteriota;Acidimicrobiia;Actinomarinales;Actinomarinaceae;Candidatus Actinomarina;	uncultured bacterium	43292
+EU800581	1	1375	Bacteria;Proteobacteria;Alphaproteobacteria;SAR11 clade;Clade I;Clade Ia;	uncultured bacterium	26229
+EU800729	1	1446	Bacteria;Proteobacteria;Alphaproteobacteria;Rhodospirillales;AEGEAN-169 marine group;	uncultured bacterium	26177
+EU800869	1	1427	Bacteria;Proteobacteria;Gammaproteobacteria;Burkholderiales;Burkholderiaceae;Polynucleobacter;	uncultured bacterium	46229
+EF016474	1	1494	Bacteria;Bacteroidota;Bacteroidia;Flavobacteriales;Flavobacteriaceae;NS4 marine group;	uncultured Bacteroidetes bacterium	44261
+EU801696	1	1459	Bacteria;Proteobacteria;Alphaproteobacteria;Rhodospirillales;AEGEAN-169 marine group;	uncultured bacterium	26177
+EU802366	1	1420	Bacteria;Proteobacteria;Gammaproteobacteria;SAR86 clade;	uncultured bacterium	26808
+EU802368	1	1440	Bacteria;Proteobacteria;Alphaproteobacteria;SAR11 clade;Clade I;Clade Ib;	uncultured bacterium	26230
+EU802374	1	1489	Bacteria;Actinobacteriota;Acidimicrobiia;Actinomarinales;Actinomarinaceae;Candidatus Actinomarina;	uncultured bacterium	43292
+EU802400	1	1495	Bacteria;Proteobacteria;Gammaproteobacteria;SAR86 clade;	uncultured bacterium	26808
+EU802420	1	1442	Bacteria;Cyanobacteria;Cyanobacteriia;Synechococcales;Cyanobiaceae;Prochlorococcus MIT9313;	uncultured bacterium	44830
+EU802437	1	1387	Bacteria;Proteobacteria;Gammaproteobacteria;SAR86 clade;	uncultured bacterium	26808
+EU802459	1	1439	Bacteria;Proteobacteria;Alphaproteobacteria;SAR11 clade;Clade II;	uncultured bacterium	26232
+EU802502	1	1451	Bacteria;Proteobacteria;Alphaproteobacteria;Puniceispirillales;SAR116 clade;	uncultured bacterium	26032
+EU802532	1	1252	Bacteria;Proteobacteria;Alphaproteobacteria;SAR11 clade;Clade II;	uncultured bacterium	26232
+EU802543	1	1499	Bacteria;Proteobacteria;Gammaproteobacteria;SAR86 clade;	uncultured bacterium	26808
+EU802603	1	1489	Bacteria;SAR324 clade(Marine group B);	uncultured bacterium	46586
+EU802606	1	1200	Bacteria;Marinimicrobia (SAR406 clade);	uncultured bacterium	11409
+EU802637	1	1438	Bacteria;Proteobacteria;Alphaproteobacteria;SAR11 clade;Clade II;	uncultured bacterium	26232
+EU802666	1	1436	Bacteria;Proteobacteria;Alphaproteobacteria;Rhodobacterales;Rhodobacteraceae;uncultured;	uncultured bacterium	2666
+EU802670	1	1499	Bacteria;Proteobacteria;Gammaproteobacteria;SAR86 clade;	uncultured bacterium	26808
+EU802794	1	1441	Bacteria;Proteobacteria;Alphaproteobacteria;SAR11 clade;Clade I;uncultured;	uncultured bacterium	26231
+EU802803	1	1440	Bacteria;Proteobacteria;Alphaproteobacteria;SAR11 clade;Clade I;uncultured;	uncultured bacterium	26231
+EU802819	1	1500	Bacteria;Proteobacteria;Gammaproteobacteria;SAR86 clade;	uncultured bacterium	26808
+EU802831	1	1482	Bacteria;Proteobacteria;Gammaproteobacteria;SAR86 clade;	uncultured bacterium	26808
+EU802833	1	1487	Bacteria;Actinobacteriota;Acidimicrobiia;Actinomarinales;Actinomarinaceae;Candidatus Actinomarina;	uncultured bacterium	43292
+EU802835	1	1505	Bacteria;Proteobacteria;Gammaproteobacteria;SAR86 clade;	uncultured bacterium	26808
+EU802844	1	1359	Bacteria;Proteobacteria;Alphaproteobacteria;SAR11 clade;Clade II;	uncultured bacterium	26232
+EU802868	1	1480	Bacteria;Actinobacteriota;Acidimicrobiia;Microtrichales;Microtrichaceae;Sva0996 marine group;	uncultured bacterium	43305
+EU802893	1	1441	Bacteria;Proteobacteria;Alphaproteobacteria;SAR11 clade;Clade II;	uncultured bacterium	26232
+EU802894	1	1450	Bacteria;Proteobacteria;Alphaproteobacteria;Puniceispirillales;SAR116 clade;	uncultured bacterium	26032
+EU802901	1	1499	Bacteria;Proteobacteria;Gammaproteobacteria;SAR86 clade;	uncultured bacterium	26808
+EU802903	1	1488	Bacteria;Proteobacteria;Gammaproteobacteria;SAR86 clade;	uncultured bacterium	26808
+EU802924	1	1499	Bacteria;Proteobacteria;Gammaproteobacteria;SAR86 clade;	uncultured bacterium	26808
+EU802936	1	1504	Bacteria;Proteobacteria;Gammaproteobacteria;Alteromonadales;Idiomarinaceae;Idiomarina;	uncultured bacterium	3387
+EU802942	1	1496	Bacteria;Proteobacteria;Gammaproteobacteria;SAR86 clade;	uncultured bacterium	26808
+EU802945	1	1378	Bacteria;Proteobacteria;Alphaproteobacteria;Rickettsiales;S25-593;	uncultured bacterium	2796
+EU802968	1	1439	Bacteria;Proteobacteria;Alphaproteobacteria;SAR11 clade;Clade II;	uncultured bacterium	26232
+EU802971	1	1498	Bacteria;Proteobacteria;Gammaproteobacteria;SAR86 clade;	uncultured bacterium	26808
+EU802984	1	1440	Bacteria;Proteobacteria;Alphaproteobacteria;SAR11 clade;Clade I;uncultured;	uncultured bacterium	26231
+EU803064	1	1484	Bacteria;Proteobacteria;Gammaproteobacteria;SAR86 clade;	uncultured bacterium	26808
+EU803067	1	1257	Bacteria;Proteobacteria;Alphaproteobacteria;SAR11 clade;Clade II;	uncultured bacterium	26232
+EU803136	1	1458	Bacteria;Proteobacteria;Gammaproteobacteria;SAR86 clade;	uncultured bacterium	26808
+EU803168	1	1439	Bacteria;Proteobacteria;Alphaproteobacteria;SAR11 clade;Clade I;uncultured;	uncultured bacterium	26231
+EU803169	1	1499	Bacteria;Proteobacteria;Gammaproteobacteria;SAR86 clade;	uncultured bacterium	26808
+EU804188	1	1426	Bacteria;Proteobacteria;Alphaproteobacteria;Rhodobacterales;Rhodobacteraceae;uncultured;	uncultured bacterium	2666
+EU804538	1	1487	Bacteria;Actinobacteriota;Acidimicrobiia;Actinomarinales;Actinomarinaceae;Candidatus Actinomarina;	uncultured bacterium	43292
+EU804641	1	1462	Bacteria;Proteobacteria;Alphaproteobacteria;Parvibaculales;OCS116 clade;	uncultured bacterium	26017
+EU805000	1	1468	Bacteria;Proteobacteria;Alphaproteobacteria;Rickettsiales;S25-593;	uncultured bacterium	2796
+EU805065	1	1518	Bacteria;Verrucomicrobiota;Verrucomicrobiae;Opitutales;Puniceicoccaceae;Coraliomargarita;	uncultured bacterium	46804
+EU805091	1	1526	Bacteria;Marinimicrobia (SAR406 clade);	uncultured bacterium	11409
+EU805172	1	1447	Bacteria;Proteobacteria;Alphaproteobacteria;SAR11 clade;Clade I;Clade Ib;	uncultured bacterium	26230
+EU805199	1	1426	Bacteria;Proteobacteria;Alphaproteobacteria;Rhodobacterales;Rhodobacteraceae;uncultured;	uncultured bacterium	2666
+EU805212	1	1439	Bacteria;Proteobacteria;Alphaproteobacteria;SAR11 clade;Clade II;	uncultured bacterium	26232
+EU805254	1	1438	Bacteria;Proteobacteria;Alphaproteobacteria;SAR11 clade;Clade I;Clade Ib;	uncultured bacterium	26230
+EU805358	1	1525	Bacteria;Marinimicrobia (SAR406 clade);	uncultured bacterium	11409
+EU919781	1	1500	Bacteria;Proteobacteria;Gammaproteobacteria;Nitrosococcales;Methylophagaceae;uncultured;	uncultured bacterium	26736
+EU919792	1	1484	Bacteria;Bacteroidota;Bacteroidia;Cytophagales;Cyclobacteriaceae;uncultured;	uncultured bacterium	44098
+EU919815	1	1484	Bacteria;Bacteroidota;Bacteroidia;Flavobacteriales;NS9 marine group;	uncultured bacterium	44308
+EU919854	1	1457	Bacteria;Proteobacteria;Alphaproteobacteria;Parvibaculales;OCS116 clade;	uncultured bacterium	26017
+FJ002876	1	1276	Archaea;Crenarchaeota;Nitrososphaeria;Nitrosopumilales;Nitrosopumilaceae;	uncultured marine group I thaumarchaeote	42940
+FJ150810	1	1353	Archaea;Crenarchaeota;Nitrososphaeria;Nitrosopumilales;Nitrosopumilaceae;	uncultured marine group I thaumarchaeote	42940
+FJ150819	1	1297	Archaea;Crenarchaeota;Nitrososphaeria;Nitrosopumilales;Nitrosopumilaceae;	uncultured marine archaeon	42940
+FJ150820	1	1353	Archaea;Crenarchaeota;Nitrososphaeria;Nitrosopumilales;Nitrosopumilaceae;	uncultured marine group I thaumarchaeote	42940
+FJ150822	1	1353	Archaea;Crenarchaeota;Nitrososphaeria;Nitrosopumilales;Nitrosopumilaceae;	uncultured marine group I thaumarchaeote	42940
+FJ150824	1	1353	Archaea;Crenarchaeota;Nitrososphaeria;Nitrosopumilales;Nitrosopumilaceae;	uncultured marine group I thaumarchaeote	42940
+FJ150834	1	1353	Archaea;Crenarchaeota;Nitrososphaeria;Nitrosopumilales;Nitrosopumilaceae;	uncultured marine group I thaumarchaeote	42940
+FJ155017	1	1491	Bacteria;Margulisbacteria;	uncultured bacterium	25726
+FJ193732	1	1447	Bacteria;Proteobacteria;Gammaproteobacteria;Pseudomonadales;Moraxellaceae;Psychrobacter;	uncultured bacterium	3716
+GQ274096	1	1523	Bacteria;Proteobacteria;Gammaproteobacteria;Alteromonadales;Alteromonadaceae;Alteromonas;	uncultured gamma proteobacterium	3339
+GQ337094	1	1520	Bacteria;Marinimicrobia (SAR406 clade);	uncultured Candidatus Marinimicrobia bacterium	11409
+GQ337123	1	1475	Bacteria;Chloroflexi;Dehalococcoidia;SAR202 clade;	uncultured Chloroflexi bacterium	25185
+GQ337165	1	1513	Bacteria;Marinimicrobia (SAR406 clade);	uncultured Candidatus Marinimicrobia bacterium	11409
+GQ337204	1	1522	Bacteria;Marinimicrobia (SAR406 clade);	uncultured Candidatus Marinimicrobia bacterium	11409
+GQ337221	1	1465	Bacteria;Chloroflexi;Dehalococcoidia;SAR202 clade;	uncultured Chloroflexi bacterium	25185
+GQ337234	1	1475	Bacteria;Chloroflexi;Dehalococcoidia;SAR202 clade;	uncultured Chloroflexi bacterium	25185
+GQ337267	1	1475	Bacteria;Chloroflexi;Dehalococcoidia;SAR202 clade;	uncultured Chloroflexi bacterium	25185
+GQ337281	1	1459	Bacteria;Chloroflexi;Dehalococcoidia;SAR202 clade;	uncultured Chloroflexi bacterium	25185
+GQ346805	1	1398	Bacteria;Marinimicrobia (SAR406 clade);	uncultured marine bacterium	11409
+GQ346815	1	1325	Bacteria;Proteobacteria;Alphaproteobacteria;SAR11 clade;Clade I;uncultured;	uncultured Alphaproteobacteria bacterium	26231
+GQ346891	1	1321	Bacteria;Proteobacteria;Alphaproteobacteria;SAR11 clade;Clade I;uncultured;	uncultured Alphaproteobacteria bacterium	26231
+GQ346902	1	1366	Bacteria;Actinobacteriota;Acidimicrobiia;Actinomarinales;Actinomarinaceae;Candidatus Actinomarina;	uncultured actinobacterium	43292
+GQ346947	1	1325	Bacteria;Chloroflexi;JG30-KF-CM66;	uncultured Chloroflexi bacterium	1446
+GQ347003	1	1383	Bacteria;Proteobacteria;Gammaproteobacteria;Thiomicrospirales;Thioglobaceae;SUP05 cluster;	uncultured gamma proteobacterium	26850
+GQ347099	1	1399	Bacteria;SAR324 clade(Marine group B);	uncultured delta proteobacterium	46586
+GQ347371	1	1373	Bacteria;SAR324 clade(Marine group B);	uncultured delta proteobacterium	46586
+GQ347704	1	1365	Bacteria;Bacteroidota;Bacteroidia;Chitinophagales;uncultured;	uncultured Bacteroidetes bacterium	44056
+GQ347996	1	1307	Bacteria;Proteobacteria;Alphaproteobacteria;Rhodobacterales;Rhodobacteraceae;uncultured;	uncultured Alphaproteobacteria bacterium	2666
+GQ348085	1	1376	Bacteria;Bacteroidota;Bacteroidia;Flavobacteriales;Flavobacteriaceae;Flavicella;	uncultured Bacteroidetes bacterium	44217
+GQ348141	1	1375	Bacteria;Bacteroidota;Bacteroidia;Flavobacteriales;Flavobacteriaceae;NS5 marine group;	uncultured Bacteroidetes bacterium	44262
+GQ348168	1	1389	Bacteria;Marinimicrobia (SAR406 clade);	uncultured marine bacterium	11409
+GQ348575	1	1324	Bacteria;Cyanobacteria;Cyanobacteriia;Chloroplast;	uncultured cyanobacterium	44561
+GQ348644	1	1376	Bacteria;Bacteroidota;Bacteroidia;Flavobacteriales;Flavobacteriaceae;NS4 marine group;	uncultured Bacteroidetes bacterium	44261
+GQ349089	1	1337	Bacteria;Proteobacteria;Alphaproteobacteria;SAR11 clade;Clade I;Clade Ia;	uncultured Alphaproteobacteria bacterium	26229
+GQ349357	1	1386	Bacteria;Bacteroidota;Bacteroidia;Flavobacteriales;Flavobacteriaceae;NS5 marine group;	uncultured Bacteroidetes bacterium	44262
+GQ349579	1	1379	Bacteria;Bacteroidota;Bacteroidia;Flavobacteriales;Flavobacteriaceae;Ulvibacter;	uncultured Bacteroidetes bacterium	44295
+GQ349627	1	1369	Bacteria;Bacteroidota;Bacteroidia;Flavobacteriales;NS9 marine group;	uncultured Bacteroidetes bacterium	44308
+GQ349786	1	1320	Bacteria;Proteobacteria;Alphaproteobacteria;SAR11 clade;Clade I;Clade Ia;	uncultured Alphaproteobacteria bacterium	26229
+GQ349827	1	1370	Bacteria;Bacteroidota;Bacteroidia;Flavobacteriales;Flavobacteriaceae;uncultured;	uncultured Bacteroidetes bacterium	44304
+GQ349960	1	1356	Bacteria;Nitrospinota;Nitrospinia;Nitrospinales;Nitrospinaceae;LS-NOB;	uncultured delta proteobacterium	45981
+GQ351140	1	1516	Bacteria;Marinimicrobia (SAR406 clade);	uncultured bacterium	11409
+GQ351147	1	1502	Bacteria;Proteobacteria;Gammaproteobacteria;Arenicellales;Arenicellaceae;uncultured;	uncultured bacterium	14622
+GQ351220	1	1437	Bacteria;Proteobacteria;Alphaproteobacteria;SAR11 clade;Clade I;uncultured;	uncultured bacterium	26231
+GQ351233	1	1485	Bacteria;Nitrospinota;Nitrospinia;Nitrospinales;Nitrospinaceae;Nitrospina;	uncultured bacterium	45982
+HM565910	2287	3749	Bacteria;Cyanobacteria;Cyanobacteriia;Chloroplast;	uncultured prymnesiophyte C5574	44561
+HM565911	2962	4423	Bacteria;Cyanobacteria;Cyanobacteriia;Chloroplast;	uncultured prymnesiophyte C8704	44561
+GQ375271	1	1521	Bacteria;Marinimicrobia (SAR406 clade);	uncultured Candidatus Marinimicrobia bacterium	11409
+GQ375274	1	1522	Bacteria;Marinimicrobia (SAR406 clade);	uncultured Candidatus Marinimicrobia bacterium	11409
+GQ377776	1	1254	Bacteria;Proteobacteria;Gammaproteobacteria;Alteromonadales;Pseudoalteromonadaceae;Pseudoalteromonas;	uncultured bacterium	3394
+GQ377836	1	1279	Bacteria;Proteobacteria;Gammaproteobacteria;SAR86 clade;	uncultured bacterium	26808
+JF173531	1	1357	Bacteria;Proteobacteria;Gammaproteobacteria;Alteromonadales;Pseudoalteromonadaceae;Pseudoalteromonas;	uncultured bacterium	3394
+JX391777	1	1460	Bacteria;Proteobacteria;Alphaproteobacteria;Rhodospirillales;Magnetospiraceae;Magnetospira;	uncultured bacterium	26179
+JN547438	1	1447	Bacteria;Cyanobacteria;Cyanobacteriia;Synechococcales;Cyanobiaceae;Prochlorococcus MIT9313;	uncultured Prochlorococcus sp.	44830
+JN547444	1	1442	Bacteria;Cyanobacteria;Cyanobacteriia;Synechococcales;Cyanobiaceae;Prochlorococcus MIT9313;	uncultured Prochlorococcus sp.	44830
+JN547476	1	1428	Bacteria;Proteobacteria;Alphaproteobacteria;SAR11 clade;Clade I;uncultured;	uncultured Pelagibacterales bacterium	26231
+JN563792	1	917	Archaea;Crenarchaeota;Nitrososphaeria;Nitrosopumilales;Nitrosopumilaceae;	uncultured marine group I thaumarchaeote	42940
+JN563820	1	1535	Bacteria;Proteobacteria;Gammaproteobacteria;Alteromonadales;Alteromonadaceae;Alteromonas;	uncultured Alteromonas sp.	3339
+JN591877	1	1479	Bacteria;Bacteroidota;Bacteroidia;Flavobacteriales;Cryomorphaceae;uncultured;	uncultured Cryomorphaceae bacterium	44182
+JN591884	1	1486	Bacteria;Proteobacteria;Gammaproteobacteria;SAR86 clade;	uncultured SAR86 cluster bacterium	26808
+JN591984	1	1424	Archaea;Thermoplasmatota;Thermoplasmata;Marine Group II;	uncultured archaeon	43141
+JN606901	1	1376	Bacteria;Proteobacteria;Gammaproteobacteria;Vibrionales;Vibrionaceae;Vibrio;	uncultured bacterium	3783
+JN625666	1	1390	Bacteria;Cyanobacteria;Cyanobacteriia;Chloroplast;	uncultured Chlorophyta	44561
+JX537830	1	1321	Bacteria;Cyanobacteria;Cyanobacteriia;Chloroplast;	uncultured bacterium	44561
+JN832934	1	1425	Bacteria;Proteobacteria;Gammaproteobacteria;SAR86 clade;	uncultured bacterium	26808
+JN833331	1	1017	Archaea;Thermoplasmatota;Thermoplasmata;Marine Group II;	uncultured archaeon	43141
+JN860396	1	1488	Bacteria;Nitrospinota;P9X2b3D02;	uncultured Nitrospinaceae bacterium	45984
+JN874066	1	1482	Bacteria;Proteobacteria;Gammaproteobacteria;Alteromonadales;Marinobacteraceae;Marinobacter;	uncultured bacterium	26314
+JN874224	1	1504	Bacteria;Proteobacteria;Gammaproteobacteria;Alteromonadales;Colwelliaceae;Colwellia;	uncultured bacterium	3379
+JN874273	1	1457	Bacteria;Proteobacteria;Gammaproteobacteria;Alteromonadales;Alteromonadaceae;Alteromonas;	uncultured bacterium	3339
+JN874316	1	1443	Bacteria;Cyanobacteria;Cyanobacteriia;Synechococcales;Cyanobiaceae;Synechococcus CC9902;	uncultured bacterium	44831
+JN874348	1	1526	Bacteria;Verrucomicrobiota;Verrucomicrobiae;Arctic97B-4 marine group;	uncultured bacterium	46772
+FJ456816	1	1475	Bacteria;Cyanobacteria;Cyanobacteriia;Chloroplast;	uncultured bacterium	44561
+FJ487498	1	1367	Archaea;Crenarchaeota;Nitrososphaeria;Nitrosopumilales;Nitrosopumilaceae;Candidatus Nitrosopumilus;	uncultured marine group I thaumarchaeote	42942
+FJ497402	1	1420	Bacteria;Proteobacteria;Gammaproteobacteria;Oceanospirillales;Saccharospirillaceae;Oleibacter;	uncultured bacterium	26790
+FJ497481	1	1464	Bacteria;Proteobacteria;Gammaproteobacteria;Alteromonadales;Pseudoalteromonadaceae;Pseudoalteromonas;	uncultured gamma proteobacterium	3394
+FJ497496	1	1440	Bacteria;Proteobacteria;Gammaproteobacteria;Alteromonadales;Alteromonadaceae;	uncultured bacterium	3334
+FJ497517	1	1437	Bacteria;Proteobacteria;Gammaproteobacteria;Nitrosococcales;Methylophagaceae;Methylophaga;	uncultured gamma proteobacterium	26735
+JN976225	1	1443	Bacteria;Bacteroidota;Bacteroidia;Flavobacteriales;Flavobacteriaceae;Formosa;	uncultured bacterium	44222
+JN976344	1	1459	Bacteria;Bacteroidota;Bacteroidia;Flavobacteriales;Cryomorphaceae;Vicingus;	uncultured bacterium	44181
+FJ535252	1	1363	Bacteria;Proteobacteria;Gammaproteobacteria;Pseudomonadales;Moraxellaceae;Psychrobacter;	uncultured bacterium	3716
+FJ545507	1	1456	Bacteria;Proteobacteria;Alphaproteobacteria;Rhodobacterales;Rhodobacteraceae;Ascidiaceihabitans;	uncultured bacterium	11446
+FJ545538	1	1526	Bacteria;Proteobacteria;Gammaproteobacteria;KI89A clade;	uncultured bacterium	3550
+FJ545589	1	1505	Bacteria;Proteobacteria;Alphaproteobacteria;uncultured;	uncultured bacterium	26269
+JQ062671	1	1498	Bacteria;Proteobacteria;Gammaproteobacteria;SAR86 clade;	uncultured bacterium	26808
+JQ062856	1	1462	Bacteria;Proteobacteria;Alphaproteobacteria;Parvibaculales;OCS116 clade;	uncultured bacterium	26017
+JQ062860	1	1445	Bacteria;Cyanobacteria;Cyanobacteriia;Synechococcales;Cyanobiaceae;Synechococcus CC9902;	uncultured bacterium	44831
+HM798599	1	1491	Bacteria;Proteobacteria;Gammaproteobacteria;SAR86 clade;	uncultured SAR156 cluster gamma proteobacterium	26808
+HM799123	1	1429	Bacteria;SAR324 clade(Marine group B);	uncultured SAR324 cluster bacterium	46586
+DQ270712	1	1478	Bacteria;Proteobacteria;Gammaproteobacteria;Pseudomonadales;Moraxellaceae;Psychrobacter;	Psychrobacter sp. B-3151	3716
+FJ612150	1	1429	Bacteria;Cyanobacteria;Cyanobacteriia;Chloroplast;	uncultured bacterium	44561
+FJ612433	1	1395	Bacteria;Cyanobacteria;Cyanobacteriia;Chloroplast;	uncultured bacterium	44561
+FJ615178	1	1439	Bacteria;Actinobacteriota;Acidimicrobiia;Microtrichales;Microtrichaceae;Sva0996 marine group;	uncultured actinobacterium	43305
+FJ626887	1	1400	Bacteria;Proteobacteria;Gammaproteobacteria;Alteromonadales;Pseudoalteromonadaceae;Pseudoalteromonas;	uncultured bacterium	3394
+FJ628330	1	1527	Bacteria;Verrucomicrobiota;Verrucomicrobiae;Pedosphaerales;Pedosphaeraceae;SCGC AAA164-E04;	uncultured bacterium	46824
+DQ367409	1	1434	Bacteria;Bacteroidota;Bacteroidia;Flavobacteriales;Flavobacteriaceae;Mesonia;	Mesonia mobilis	44255
+DQ490980	1	1469	Bacteria;Proteobacteria;Alphaproteobacteria;Sphingomonadales;Sphingomonadaceae;Sphingobium;	Sphingomonas sp. CC-FH1	2850
+DQ492738	1	1429	Bacteria;Proteobacteria;Gammaproteobacteria;Alteromonadales;Pseudoalteromonadaceae;Pseudoalteromonas;	Pseudoalteromonas sp. BSi20316	3394
+DQ520891	1	1418	Bacteria;Proteobacteria;Gammaproteobacteria;Alteromonadales;Pseudoalteromonadaceae;Pseudoalteromonas;	Pseudoalteromonas sp. BSi20526	3394
+DQ677306	1	1446	Bacteria;Proteobacteria;Gammaproteobacteria;Alteromonadales;Pseudoalteromonadaceae;Pseudoalteromonas;	Pseudoalteromonas sp. G16	3394
+JF268338	1	1346	Archaea;Crenarchaeota;Nitrososphaeria;Nitrosopumilales;Nitrosopumilaceae;	uncultured archaeon	42940
+JF421212	1	1492	Bacteria;Bacteroidota;Bacteroidia;Flavobacteriales;Flavobacteriaceae;Gramella;	uncultured Gramella sp.	44231
+JF421214	1	1484	Bacteria;Bacteroidota;Bacteroidia;Flavobacteriales;Cryomorphaceae;Vicingus;	uncultured Flavobacteriales bacterium	44181
+JX870189	1	913	Archaea;Crenarchaeota;Nitrososphaeria;Nitrosopumilales;Nitrosopumilaceae;	uncultured archaeon	42940
+JX878927	1	1404	Bacteria;Proteobacteria;Alphaproteobacteria;Rhodospirillales;AEGEAN-169 marine group;	uncultured bacterium	26177
+JX879028	1	1406	Bacteria;Proteobacteria;Alphaproteobacteria;SAR11 clade;Clade II;	uncultured bacterium	26232
+JX879031	1	1407	Bacteria;Proteobacteria;Alphaproteobacteria;Rhodospirillales;AEGEAN-169 marine group;	uncultured bacterium	26177
+KC001780	1	1314	Bacteria;Proteobacteria;Alphaproteobacteria;SAR11 clade;Clade II;	unidentified marine bacterioplankton	26232
+KC001820	1	1315	Bacteria;Proteobacteria;Alphaproteobacteria;SAR11 clade;Clade I;Clade Ib;	unidentified marine bacterioplankton	26230
+KC002071	1	1361	Bacteria;Bacteroidota;Bacteroidia;Flavobacteriales;Flavobacteriaceae;NS2b marine group;	unidentified marine bacterioplankton	44259
+KC002117	1	1316	Bacteria;Proteobacteria;Alphaproteobacteria;Rhodospirillales;AEGEAN-169 marine group;	unidentified marine bacterioplankton	26177
+KC003238	1	1354	Bacteria;Proteobacteria;Alphaproteobacteria;Rhodospirillales;AEGEAN-169 marine group;	unidentified marine bacterioplankton	26177
+KC003383	1	1321	Bacteria;Cyanobacteria;Cyanobacteriia;Synechococcales;Cyanobiaceae;Prochlorococcus MIT9313;	unidentified marine bacterioplankton	44830
+AAQG01000006	168651	170147	Bacteria;Proteobacteria;Alphaproteobacteria;Sphingomonadales;Sphingomonadaceae;Sphingobium;	Sphingomonas sp. SKA58	2850
+AANC01000011	208	1734	Bacteria;Bacteroidota;Bacteroidia;Flavobacteriales;Flavobacteriaceae;Leeuwenhoekiella;	Leeuwenhoekiella blandensis MED217	44244
+AACY020016122	205	1491	Bacteria;Verrucomicrobiota;Verrucomicrobiae;Opitutales;Puniceicoccaceae;uncultured;	marine metagenome	46810
+AACY020068177	376	1853	Bacteria;Chloroflexi;Dehalococcoidia;SAR202 clade;	marine metagenome	25185
+AACY020075636	150	1670	Bacteria;Proteobacteria;Gammaproteobacteria;Steroidobacterales;Woeseiaceae;Woeseia;	marine metagenome	26832
+AACY020080403	492	1950	Bacteria;Cyanobacteria;Cyanobacteriia;Chloroplast;	marine metagenome	44561
+AACY020125842	54	1493	Archaea;Thermoplasmatota;Thermoplasmata;Marine Group II;	marine metagenome	43141
+AACY020187844	576	1995	Archaea;Thermoplasmatota;Thermoplasmata;Marine Group II;	marine metagenome	43141
+AACY020207233	1273	2814	Bacteria;Marinimicrobia (SAR406 clade);	marine metagenome	11409
+AACY020254990	1	1246	Archaea;Nanoarchaeota;Nanoarchaeia;Woesearchaeales;	marine metagenome	43119
+AACY020255495	903	2404	Bacteria;Proteobacteria;Gammaproteobacteria;SAR86 clade;	marine metagenome	26808
+AACY020259437	2024	3522	Bacteria;Bacteroidota;Bacteroidia;Flavobacteriales;Cryomorphaceae;uncultured;	marine metagenome	44182
+AACY020276549	377	1886	Bacteria;Bacteroidota;Bacteroidia;Flavobacteriales;Flavobacteriaceae;NS5 marine group;	marine metagenome	44262
+AACY020288370	770	2267	Bacteria;Actinobacteriota;Acidimicrobiia;Microtrichales;Microtrichaceae;Sva0996 marine group;	marine metagenome	43305
+AACY020292957	227	1544	Bacteria;Patescibacteria;Parcubacteria;Candidatus Kaiserbacteria;	marine metagenome	25798
+AACY020324837	147	1652	Bacteria;Bacteroidota;Bacteroidia;Flavobacteriales;Flavobacteriaceae;NS4 marine group;	marine metagenome	44261
+AACY020329935	165	1672	Bacteria;Bacteroidota;Bacteroidia;Flavobacteriales;Flavobacteriaceae;NS4 marine group;	marine metagenome	44261
+AACY020371335	89	1595	Bacteria;Proteobacteria;Gammaproteobacteria;Ectothiorhodospirales;Ectothiorhodospiraceae;uncultured;	marine metagenome	26637
+AACY020393406	361	1862	Bacteria;Proteobacteria;Gammaproteobacteria;SAR86 clade;	marine metagenome	26808
+AACY020396101	1882	3388	Bacteria;Actinobacteriota;Acidimicrobiia;Actinomarinales;Actinomarinaceae;Candidatus Actinomarina;	marine metagenome	43292
+AACY020398456	2130	3630	Bacteria;Proteobacteria;Gammaproteobacteria;SAR86 clade;	marine metagenome	26808
+AACY020403290	735	2190	Bacteria;Proteobacteria;Alphaproteobacteria;SAR11 clade;Clade II;	marine metagenome	26232
+AACY020430088	197	1720	Bacteria;Proteobacteria;Gammaproteobacteria;JTB23;	marine metagenome	26683
+AACY020431964	3244	4753	Bacteria;Bacteroidota;Bacteroidia;Flavobacteriales;Flavobacteriaceae;NS5 marine group;	marine metagenome	44262
+AACY020458788	943	2444	Bacteria;Bacteroidota;Bacteroidia;Flavobacteriales;Flavobacteriaceae;NS2b marine group;	marine metagenome	44259
+AACY020481938	3418	4929	Bacteria;Proteobacteria;Gammaproteobacteria;SAR86 clade;	marine metagenome	26808
+AACY020487638	121	1594	Bacteria;Proteobacteria;Alphaproteobacteria;Rhodospirillales;AEGEAN-169 marine group;	marine metagenome	26177
+AACY020490277	719	2228	Bacteria;Bacteroidota;Bacteroidia;Flavobacteriales;Flavobacteriaceae;NS5 marine group;	marine metagenome	44262
+AACY020518560	687	2227	Bacteria;Marinimicrobia (SAR406 clade);	marine metagenome	11409
+AACY020536637	961	2423	Bacteria;Proteobacteria;Alphaproteobacteria;Rhizobiales;Rhizobiaceae;Cohaesibacter;	marine metagenome	26103
+AACY020544257	531	2038	Bacteria;Bacteroidota;Bacteroidia;Flavobacteriales;Crocinitomicaceae;Fluviicola;	marine metagenome	44170
+AACY020545456	443	1983	Bacteria;Marinimicrobia (SAR406 clade);	marine metagenome	11409
+AACY020548802	136	1646	Bacteria;Bacteroidota;Bacteroidia;Flavobacteriales;Flavobacteriaceae;NS5 marine group;	marine metagenome	44262
+AACY020549891	3846	5359	Bacteria;Proteobacteria;Gammaproteobacteria;SAR86 clade;	marine metagenome	26808
+AACY020551516	3485	4953	Bacteria;Proteobacteria;Alphaproteobacteria;SAR11 clade;Clade IV;	marine metagenome	26234
+AACY020553637	768	2309	Bacteria;Marinimicrobia (SAR406 clade);	marine metagenome	11409
+AACY020553861	2031	3562	Bacteria;Proteobacteria;Gammaproteobacteria;SAR86 clade;	marine metagenome	26808
+AACY020555729	127	1634	Bacteria;Bacteroidota;Bacteroidia;Flavobacteriales;Flavobacteriaceae;NS4 marine group;	marine metagenome	44261
+AACY020555764	489	1966	Bacteria;Proteobacteria;Alphaproteobacteria;Parvibaculales;OCS116 clade;	marine metagenome	26017
+AACY020555882	2572	4023	Archaea;Thermoplasmatota;Thermoplasmata;Marine Group II;	marine metagenome	43141
+AACY020556376	977	2486	Bacteria;Bacteroidota;Bacteroidia;Flavobacteriales;Flavobacteriaceae;NS5 marine group;	marine metagenome	44262
+AACY020562322	3851	5364	Bacteria;Proteobacteria;Gammaproteobacteria;SAR86 clade;	marine metagenome	26808
+AACY020563509	792	2305	Bacteria;Proteobacteria;Gammaproteobacteria;SAR86 clade;	marine metagenome	26808
+AACY020564058	27	1569	Bacteria;Marinimicrobia (SAR406 clade);	marine metagenome	11409
+AACY020564593	3718	5259	Bacteria;Marinimicrobia (SAR406 clade);	marine metagenome	11409
+AACY020565564	130	1652	Bacteria;Proteobacteria;Gammaproteobacteria;HOC36;	marine metagenome	3546
+AAOG01000005	3703	5223	Bacteria;Bacteroidota;Bacteroidia;Flavobacteriales;Flavobacteriaceae;Polaribacter;	Polaribacter irgensii 23-P	44268
+AACY023938218	20	1535	Bacteria;Proteobacteria;Gammaproteobacteria;Oceanospirillales;Pseudohongiellaceae;Pseudohongiella;	marine metagenome	26782
+AACY024102418	157	1623	Bacteria;Proteobacteria;Alphaproteobacteria;Rhodospirillales;AEGEAN-169 marine group;	marine metagenome	26177
+CAGN02000147	4055	5576	Bacteria;Verrucomicrobiota;Verrucomicrobiae;Verrucomicrobiales;Rubritaleaceae;Roseibacillus;	Verrucomicrobia bacterium SCGC AAA168-E21	46838
+AJXC01000443	5756	7214	Archaea;Crenarchaeota;Nitrososphaeria;Nitrosopumilales;Nitrosopumilaceae;Candidatus Nitrosopumilus;	uncultured Nitrosopumilales archaeon	42942
+AJXC01007386	664	1844	Archaea;Thermoplasmatota;Thermoplasmata;Marine Group II;	marine metagenome	43141
